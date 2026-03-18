@@ -143,15 +143,13 @@
 			</div>
         </div>
 		<form action="https://formspree.io/f/mojkydyr" method="POST">
-		  <label>
-			Correo electrónico:
-			<input type="email" name="email">
-		  </label>
-		  <label>
-			Mensaje:
-			<textarea name="message"></textarea>
-		  </label>
-		  <button type="submit">Enviar</button>
+		  <div class="form-grid">
+			<input class="input" type="email" name="email" placeholder="Dirección de correo electrónico" required />
+			<textarea class="textarea" name="message" placeholder="Mensaje" required></textarea>
+		  </div>
+		  <button type="submit" class="submit-bar">
+			Enviar
+		  </button>
 		</form>
       </div>
     </section>
