@@ -142,16 +142,26 @@
 
 			</div>
         </div>
-		<form action="https://formspree.io/f/mojkydyr" method="POST">
-		  <input type="hidden" name="_next" value="https://ingridsegura.es/gracies_es.html">
+		<form id="contact-form" action="https://formspree.io/f/mojkydyr" method="POST">
 		  <div class="form-grid">
-			<input class="input" type="email" name="email" placeholder="Dirección de correo electrónico" required />
-			<textarea class="textarea" name="message" placeholder="Mensaje" required></textarea>
+			<input
+			  class="input"
+			  type="email"
+			  name="email"
+			  placeholder="Dirección de correo electrónico"
+			  required
+			/>
+			<textarea
+			  class="textarea"
+			  name="message"
+			  placeholder="Mensaje"
+			  required
+			></textarea>
 		  </div>
-		  <button type="submit" class="submit-bar">
-			Enviar
-		  </button>
+
+		  <button type="submit" class="submit-bar">Enviar</button>
 		</form>
+		<p id="form-status" style="display:none;"></p>
       </div>
     </section>
 
@@ -166,26 +176,40 @@
 	</div>
   </footer>
 
-  <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      const toggle = document.querySelector('.nav-toggle');
-      const nav = document.querySelector('.main-nav');
-      if (!toggle || !nav) return;
+<script>
+  const form = document.getElementById("contact-form");
+  const status = document.getElementById("form-status");
+  const submitButton = form.querySelector('button[type="submit"]');
 
-      toggle.addEventListener('click', function () {
-        const isOpen = nav.classList.toggle('is-open');
-        toggle.classList.toggle('is-open', isOpen);
-        toggle.setAttribute('aria-expanded', String(isOpen));
+  form.addEventListener("submit", async function (e) {
+    e.preventDefault();
+
+    submitButton.disabled = true;
+    status.style.display = "block";
+    status.textContent = "Enviant...";
+
+    const data = new FormData(form);
+
+    try {
+      const response = await fetch(form.action, {
+        method: "POST",
+        body: data,
+        headers: {
+          "Accept": "application/json"
+        }
       });
 
-      nav.querySelectorAll('a').forEach(function (link) {
-        link.addEventListener('click', function () {
-          nav.classList.remove('is-open');
-          toggle.classList.remove('is-open');
-          toggle.setAttribute('aria-expanded', 'false');
-        });
-      });
-    });
-  </script>
+      if (response.ok) {
+        window.location.href = "https://ingridsegura.es/gracies.html";
+      } else {
+        status.textContent = "Hi ha hagut un error en l'enviament. Torna-ho a provar.";
+        submitButton.disabled = false;
+      }
+    } catch (error) {
+      status.textContent = "No s'ha pogut enviar el formulari. Revisa la connexió i torna-ho a provar.";
+      submitButton.disabled = false;
+    }
+  });
+</script>
 </body>
 </html>
