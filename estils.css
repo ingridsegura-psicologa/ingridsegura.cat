@@ -1098,3 +1098,101 @@ body > main > .hero:not(#inici) .section-title{
     gap:14px;
   }
 }
+
+/* Ressenyes externes - estil partit */
+.reviews-split-section{
+  background:#f7f5f2;
+  border-top:1px solid rgba(127,145,141,.45);
+}
+
+.reviews-split-grid{
+  display:grid;
+  grid-template-columns: 1fr 1.35fr;
+  max-width:1400px;
+  margin:0 auto;
+}
+
+.reviews-split-left{
+  padding:56px 56px 64px;
+  border-right:1px solid rgba(127,145,141,.45);
+}
+
+.reviews-split-left h2{
+  margin:0 0 24px;
+  font-size:3rem;
+  line-height:1.15;
+  font-weight:300;
+  color:#5c6d6a;
+  max-width:260px;
+}
+
+.reviews-split-left p{
+  max-width:340px;
+  font-size:1.05rem;
+  line-height:1.9;
+  color:#5f6f6c;
+  margin:0;
+}
+
+.reviews-split-right{
+  padding:56px 56px 64px;
+  display:flex;
+  flex-direction:column;
+  gap:34px;
+}
+
+.reviews-item h3{
+  margin:0 0 10px;
+  font-size:1.7rem;
+  font-weight:300;
+  color:#5c6d6a;
+}
+
+.reviews-item p{
+  margin:0 0 14px;
+  font-size:1.05rem;
+  line-height:1.9;
+  color:#5f6f6c;
+  max-width:620px;
+}
+
+.reviews-item a{
+  font-size:.95rem;
+  letter-spacing:.04em;
+  text-transform:uppercase;
+  text-decoration:none;
+  color:#5c6d6a;
+  border-bottom:1px solid #7f918d;
+  padding-bottom:3px;
+}
+
+.reviews-item a:hover{
+  opacity:.75;
+}
+
+@media (max-width: 900px){
+  .reviews-split-grid{
+    grid-template-columns:1fr;
+  }
+
+  .reviews-split-left{
+    border-right:none;
+    border-bottom:1px solid rgba(127,145,141,.45);
+    padding:42px 24px 34px;
+  }
+
+  .reviews-split-right{
+    padding:34px 24px 42px;
+    gap:28px;
+  }
+
+  .reviews-split-left h2{
+    font-size:2.3rem;
+    max-width:none;
+  }
+
+  .reviews-split-left p,
+  .reviews-item p{
+    max-width:none;
+  }
+}
