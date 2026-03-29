@@ -339,30 +339,35 @@ h1,h2,h3{
 }
 
 /* SOBRE MI */
-.about-intro-grid{
-  display:grid;
-  grid-template-columns:380px minmax(0,1fr);
-  gap:150px;
-  align-items:center;
-  margin-top:34px;
+.about-intro-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  gap: 60px;
+  align-items: start;
 }
 
-.about-photo{
-  width:100%;
-  aspect-ratio:1/1;
-  object-fit:cover;
+.about-photo {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
 }
 
-.about-intro-copy{
-  max-width:610px;
+.about-intro-copy {
+  max-width: 600px;
 }
-
 .about-intro-copy p,
 .about-method-copy p{
   margin:0 0 18px;
   font-size:18px;
   line-height:1.7;
   color:#768082;
+}
+
+.about-intro-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 60px 20px;
 }
 
 .about-quote-band{
@@ -600,8 +605,8 @@ h1,h2,h3{
 
 .service-split-inner{
   width:100%;
-  max-width:470px;
-  text-align:center;
+  max-width:480px;
+  text-align:left;
 }
 
 .service-split-inner h2{
@@ -926,6 +931,10 @@ h1,h2,h3{
   .about-intro,
   .page-intro{
     padding:0 0 24px;
+  }
+  
+  .about-intro-grid {
+    grid-template-columns: 1fr;
   }
 
   .about-intro-inner,
