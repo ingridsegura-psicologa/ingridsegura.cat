@@ -6,6 +6,7 @@
 <url><loc>https://ingridsegura.cat/arees-especialitzacio.html</loc></url>
 <url><loc>https://ingridsegura.cat/serveis.html</loc></url>
 <url><loc>https://ingridsegura.cat/contacte.html</loc></url>
+<url><loc>https://ingridsegura.cat/blog.html</loc></url>
 <url><loc>https://ingridsegura.cat/faqs.html</loc></url>
 <url><loc>https://ingridsegura.cat/avis-legal.html</loc></url>
 <url><loc>https://ingridsegura.cat/gracies.html</loc></url>
@@ -14,8 +15,22 @@
 <url><loc>https://ingridsegura.cat/sobre-mi_es.html</loc></url>
 <url><loc>https://ingridsegura.cat/arees-especialitzacio_es.html</loc></url>
 <url><loc>https://ingridsegura.cat/serveis_es.html</loc></url>
+<url><loc>https://ingridsegura.cat/blog_es.html</loc></url>
 <url><loc>https://ingridsegura.cat/contacte_es.html</loc></url>
 <url><loc>https://ingridsegura.cat/faqs_es.html</loc></url>
 <url><loc>https://ingridsegura.cat/avis-legal_es.html</loc></url>
 <url><loc>https://ingridsegura.cat/gracies_es.html</loc></url>
+
+
+<url>
+	<loc>https://ingridsegura.cat/blog/terapia-online.html</loc>
+	<lastmod>2026-03-30</lastmod>
+</url>
+
+<url>
+	<loc>https://ingridsegura.cat/blog/terapia-online_es.html</loc>
+	<lastmod>2026-03-30</lastmod>
+</url>
+
+
 </urlset>
