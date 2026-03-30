@@ -350,7 +350,6 @@ h1,h2,h3{
   width: 100%;
   height: auto;
   display: block;
-  border-radius: 8px;
 }
 
 .about-intro-copy {
@@ -427,26 +426,30 @@ h1,h2,h3{
 .contact-grid{
   display:grid;
   grid-template-columns:1fr 1fr;
-  align-items:center;
+  align-items:start;
   background:var(--bg);
+  max-width:1100px;
+  margin:0 auto;
+  padding:0 20px 40px;
 }
 
 .contact-image{
   display:flex;
-  align-items:center;
-  justify-content:center;
-  padding:30px;
+  align-items:flex-start;
+  justify-content:flex-start;
+  padding:0;
 }
 
 .contact-image img{
   width:100%;
-  max-width:460px;
+  max-width:560px;
   height:auto;
-  margin:0 auto;
+  display:block;
+  margin:0;
 }
 
 .contact-copy{
-  padding:24px 90px 36px 70px;
+  padding:0 0 0 56px;
 }
 
 .contact-copy p,
@@ -637,13 +640,13 @@ h1,h2,h3{
 
 /* AVÍS LEGAL */
 .legal-section{
-  max-width:760px;
+  max-width:1100px;
   margin:0 auto;
-  padding:80px 20px;
+  padding:40px 20px 80px;
 }
 
 .legal-block{
-  margin-bottom:60px;
+  max-width:760px;
 }
 
 .legal-block h3{
@@ -1000,6 +1003,19 @@ h1,h2,h3{
   .about-quote-band p{
     font-size:24px;
   }
+  
+  /* pagina contacte */
+  .contact-page .about-intro{
+    padding:54px 0 18px;
+  }
+
+  .contact-page .about-intro-inner{
+    padding-bottom:0;
+  }
+
+  .contact-page .contact-grid{
+    padding-top:0;
+  }  
 
   .contact-grid{
     grid-template-columns:1fr;
