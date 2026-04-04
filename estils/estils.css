@@ -1249,3 +1249,8 @@ h1,h2,h3{
   text-decoration:underline;
 }
 
+.blog-date {
+  font-size: 0.9rem;
+  color: #777;
+  margin-bottom: 8px;
+}
