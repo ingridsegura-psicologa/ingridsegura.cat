@@ -1254,3 +1254,13 @@ h1,h2,h3{
   color: #777;
   margin-bottom: 8px;
 }
+
+.icon-img {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+}
+
+.input[type="email"] {
+  grid-column: span 2;
+}
