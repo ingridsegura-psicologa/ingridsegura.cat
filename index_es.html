@@ -83,7 +83,7 @@
  ]
 }
 </script>
-
+<script src="js/main.js"></script>
 </head>
 <body>
 
@@ -129,14 +129,13 @@
 
       <h1>Ingrid<br>Segura</h1>
       <div class="role">Psicóloga</div>
-	  <p class="subtitol">Psicóloga en Altafulla y La Sénia · Terapia online, a domicilio y caminando</p>
-		<p class="lead">
-		No siempre es fácil entender qué nos pasa.
-		</p>
-		<p class="lead">
-		Pero cuando le ponemos palabras, algo empieza a cambiar.
-		</p>
-	  <a class="button-line" href="contacte_es.html">Contactar</a>
+		  <p class="hero-message">
+			Te ayudo a entender y gestionar tus emociones para vivir con más tranquilidad.
+		  </p>
+		  <p class="hero-meta">
+			Psicóloga en Altafulla y La Sénia · Terapia online, a domicilio y caminando
+		  </p>
+	  <a class="button-line" href="contacte_es.html">Pedir cita</a>
 
     </div>
   </div>
@@ -219,6 +218,14 @@
 		</div>
 	  </div>
 	</section>	
+	
+	<section class="instagram-section" aria-labelledby="instagram-title">
+	  <h2 id="instagram-title" class="section-title">Instagram</h2>
+	  <div class="title-line"></div>
+	  <p>Si quieres, también puedes seguirme a Instagram, donde comporto reflexiones y recursos sobre bienestar emocional.</p>
+	  <a class="button-line" href="https://www.instagram.com/ingridsegura.psicologa/" target="_blank" rel="noopener noreferrer">Sígueme en Instagram</a>
+	</section>
+
 
 </main>
 
@@ -234,27 +241,5 @@
 	</div>
   </footer>
 
-
-  <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      const toggle = document.querySelector('.nav-toggle');
-      const nav = document.querySelector('.main-nav');
-      if (!toggle || !nav) return;
-
-      toggle.addEventListener('click', function () {
-        const isOpen = nav.classList.toggle('is-open');
-        toggle.classList.toggle('is-open', isOpen);
-        toggle.setAttribute('aria-expanded', String(isOpen));
-      });
-
-      nav.querySelectorAll('a').forEach(function (link) {
-        link.addEventListener('click', function () {
-          nav.classList.remove('is-open');
-          toggle.classList.remove('is-open');
-          toggle.setAttribute('aria-expanded', 'false');
-        });
-      });
-    });
-  </script>
 </body>
 </html>

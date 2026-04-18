@@ -84,7 +84,7 @@
  ]
 }
 </script>
-
+<script src="js/main.js"></script>
 </head>
 <body>
   <header class="site-header">
@@ -118,74 +118,76 @@
         <h1 class="page-title">Contacte</h1>
 	  </section>
 	 
-	  <section class="contact-grid white" id="contacto">
-		<div class="contact-image">
-            <img class="about-photo" src="img/ingrid3.webp" alt="Ingrid Segura Bertomeu psicòloga" fetchpriority="high">
-		</div>
+<section class="contact-grid white" id="contacto">
+  <div class="contact-image">
+    <img class="about-photo" src="img/ingrid1.webp" alt="Ingrid Segura Bertomeu psicòloga" fetchpriority="high">
+  </div>
 
-		<div class="contact-copy">
-		  <div class="contact-lines">
-			
-			<p>A vegades fer el primer pas no és fàcil.</p>
-			<p>Si estàs passant per un moment difícil o simplement necessites comprendre millor el que estàs vivint, et pots posar en contacte amb mi i ho comentem amb calma.</p>
-			<p><strong>La primera conversa telefònica és gratuïta i sense compromís.</strong></p>
-			<div class="contact-info">
+  <div class="contact-copy">
+    <div class="contact-lines">
+      <p>A vegades fer el primer pas no és fàcil.</p>
+      <p>Si estàs passant per un moment difícil o simplement necessites comprendre millor el que estàs vivint, et pots posar en contacte amb mi i ho comentem amb calma.</p>
+      <p class="highlight"><strong>La primera conversa (15 minuts) és gratuïta i sense compromís.</strong></p>
+    </div>
 
-			  <div class="contact-item">
-				<span class="contact-icon">✉</span>
-				<a href="mailto:ingridsegura.psicologa@gmail.com">
-				  ingridsegura.psicologa@gmail.com
-				</a>
-			  </div>
+    <form id="contact-form" class="contact-form" action="https://formspree.io/f/mojkydyr" method="POST">
+      <div class="form-grid">
+        <input class="input full" type="text" name="name" placeholder="Nom i cognoms" required>
 
-			  <div class="contact-item">
-				<span class="contact-icon">☎</span>
-				<span>669 41 98 71</span>
-			  </div>			
-			</div>
-			<div class="contact-item">
-			  <span class="contact-icon">
-					<img src="img/wa.png" alt="WhatsApp" class="icon-img">
-			  </span>
-			  <a href="https://wa.me/34669419871" target="_blank">
-				Escriu-me per WhatsApp
-			  </a>
-			</div>
-			<div class="contact-item">
-			  <span class="contact-icon">					
-				   <img src="img/instagram.png" alt="WhatsApp" class="icon-img">
-			  </span>
-			  <a href="https://www.instagram.com/ingridsegura.psicologa/" target="_blank" rel="noopener">
-				Segueix-me a Instagram
-			  </a>
-			</div>
-        </div>
-		<form id="contact-form" action="https://formspree.io/f/mojkydyr" method="POST">
-		  <div class="form-grid">
-			<input
-			  class="input"
-			  type="email"
-			  name="email"
-			  placeholder="Adreça de correu electrònic"
-			  required
-			/>
-			<textarea
-			  class="textarea"
-			  name="message"
-			  placeholder="Missatge"
-			  required
-			></textarea>
-		  </div>
+        <input class="input full" type="email" name="email" placeholder="Adreça de correu electrònic" required>
 
-		  <button type="submit" class="submit-bar">Enviar</button>
-		  
-		</form>
-		<p id="form-status" style="display:none;"></p>
-		</div>
-    </section>  
+        <input class="input" type="text" name="location" placeholder="Localitat" required>
 
+        <select class="input" name="service" required>
+          <option value="">Tipus de sessió</option>
+          <option value="online">Online</option>
+          <option value="domicili">A domicili</option>
+          <option value="caminant">Caminant</option>
+          <option value="no_ho_se">No ho sé / ho vull comentar</option>
+        </select>
 
-  </main>
+        <input class="input full" type="tel" name="phone" id="phone" placeholder="Telèfon (opcional)">
+
+        <fieldset class="contact-preference full">
+          <legend>Com prefereixes que et contacti?</legend>
+
+          <label class="radio-option">
+            <input type="radio" name="contact_preference" value="email" checked>
+            <span>Per correu electrònic</span>
+          </label>
+
+          <label class="radio-option">
+            <input type="radio" name="contact_preference" value="phone">
+            <span>Per telèfon</span>
+          </label>
+
+          <label class="radio-option">
+            <input type="radio" name="contact_preference" value="whatsapp">
+            <span>Per WhatsApp</span>
+          </label>
+        </fieldset>
+
+        <textarea class="textarea full" name="message" placeholder="Explica breument què necessites o com et puc ajudar" required></textarea>
+      </div>
+
+      <button type="submit" class="button-line">Enviar missatge</button>
+    </form>
+	
+
+<p id="form-status" style="display:none;"></p>	
+
+    <div class="contact-alt">
+      <p class="contact-alt-title">També em pots contactar directament:</p>
+      <ul>
+        <li><span class="contact-icon">✉</span><a href="mailto:ingridsegura.psicologa@gmail.com">ingridsegura.psicologa@gmail.com</a></li>
+        <li><span class="contact-icon">☎</span><a href="tel:+34669419871">669 41 98 71</a></li>
+        <li><span class="contact-icon"><img src="img/wa.png" alt="WhatsApp" class="icon-img"></span><a href="https://wa.me/34669419871" target="_blank" rel="noopener">Escriu-me per WhatsApp</a></li>
+      </ul>
+    </div>
+
+    <p id="form-status" style="display:none;"></p>
+  </div>
+</section>
   <footer class="site-footer">
 	  <div class="footer-bottom">
 		© Ingrid Segura 2026 · Psicòloga · Col·legi Oficial de Psicologia n.36181 <br>
@@ -194,62 +196,6 @@
 		</div>
 	</div>
   </footer>
-  
-<script>
-  const form = document.getElementById("contact-form");
-  const status = document.getElementById("form-status");
-  const submitButton = form.querySelector('button[type="submit"]');
 
-  form.addEventListener("submit", async function (e) {
-    e.preventDefault();
-
-    submitButton.disabled = true;
-    status.style.display = "block";
-    status.textContent = "Enviant...";
-
-    const data = new FormData(form);
-
-    try {
-      const response = await fetch(form.action, {
-        method: "POST",
-        body: data,
-        headers: {
-          "Accept": "application/json"
-        }
-      });
-
-      if (response.ok) {
-        window.location.href = "https://ingridsegura.cat/gracies.html";
-      } else {
-        status.textContent = "Hi ha hagut un error en l'enviament. Torna-ho a provar.";
-        submitButton.disabled = false;
-      }
-    } catch (error) {
-      status.textContent = "No s'ha pogut enviar el formulari. Revisa la connexió i torna-ho a provar.";
-      submitButton.disabled = false;
-    }
-  });
-</script>
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    const toggle = document.querySelector('.nav-toggle');
-    const nav = document.querySelector('.main-nav');
-    if (!toggle || !nav) return;
-
-    toggle.addEventListener('click', function () {
-      const isOpen = nav.classList.toggle('is-open');
-      toggle.classList.toggle('is-open', isOpen);
-      toggle.setAttribute('aria-expanded', String(isOpen));
-    });
-
-    nav.querySelectorAll('a').forEach(function (link) {
-      link.addEventListener('click', function () {
-        nav.classList.remove('is-open');
-        toggle.classList.remove('is-open');
-        toggle.setAttribute('aria-expanded', 'false');
-      });
-    });
-  });
-</script>
 </body>
 </html>

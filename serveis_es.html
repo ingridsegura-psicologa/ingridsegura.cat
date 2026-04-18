@@ -84,7 +84,7 @@
  ]
 }
 </script>
-
+<script src="js/main.js"></script>
 </head>
 
 <body>
@@ -122,14 +122,14 @@
     <div class="page-intro-inner">
       <h1 class="page-title">Servicios</h1>
 	  <p>Oferezo diferentes modalidades de sesiones para adaptar la terapia a las necesidades de la persona.</p>
-	  <p>Oferezo terapia online, sesiones a domicilio en Altafulla, Torredembarra, La Riera del Gaià, La Pobla de Montornès y la Sénia.</p>	  
+	  <p>Oferezo terapia online y sesiones a domicilio o andando en Altafulla, Torredembarra, La Riera del Gaià, La Pobla de Montornès y la Sénia.</p>	  
    </div>
   </section>
 
 
 	<section class="service-split">
 	  <div class="service-split-media">
-		<img src="img/foto1.webp" alt="Ingrid Segura Bertomeu Psicóloga - Sesiones online" fetchpriority=high/>
+		<img src="img/online.jpg" alt="Ingrid Segura Bertomeu Psicóloga - Sesiones online" fetchpriority=high/>
 	  </div>
 	  <div class="service-split-copy">
 		<div class="service-split-inner">
@@ -143,7 +143,7 @@
 
 	<section class="service-split reverse">
 	  <div class="service-split-media">
-		<img src="img/foto2.webp" alt="Ingrid Segura Bertomeu Psicóloga - Sesiones a domicilio" fetchpriority=high/>
+		<img src="img/domicili.jpg" alt="Ingrid Segura Bertomeu Psicóloga - Sesiones a domicilio" fetchpriority=high/>
 	  </div>
 	  <div class="service-split-copy">
 		<div class="service-split-inner">
@@ -157,7 +157,7 @@
 
 	<section class="service-split">
 	  <div class="service-split-media">
-		<img src="img/foto3.webp" alt="Ingrid Segura Bertomeu Psicóloga - Acompañamiento terapéutico caminando" fetchpriority=high/>
+		<img src="img/caminant.jpg" alt="Ingrid Segura Bertomeu Psicóloga - Acompañamiento terapéutico caminando" fetchpriority=high/>
 	  </div>
 	  <div class="service-split-copy">
 		<div class="service-split-inner">
@@ -165,6 +165,7 @@
 		  <p><em>¿Sientes que caminar te ayuda a pensar, a ordenarte o a respirar mejor?</em></p>
 		  <p>Las sesiones caminando al aire libre ofrecen una forma diferente de vivir el proceso terapéutico.</p>
 		  <p>El movimiento y el contacto con el entorno pueden facilitar la reflexión y ayudar a que las emociones fluyan con mayor naturalidad.</p>
+		  <p>Este tipo de sesiones tienen lugar principalmente en Altafulla, Torredembarra y poblaciones cercanas, así como en la zona de La Sénia.</p>
 		</div>
 	  </div>
 	</section>
@@ -181,26 +182,6 @@
 	</div>
   </footer>
 
-  <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      const toggle = document.querySelector('.nav-toggle');
-      const nav = document.querySelector('.main-nav');
-      if (!toggle || !nav) return;
 
-      toggle.addEventListener('click', function () {
-        const isOpen = nav.classList.toggle('is-open');
-        toggle.classList.toggle('is-open', isOpen);
-        toggle.setAttribute('aria-expanded', String(isOpen));
-      });
-
-      nav.querySelectorAll('a').forEach(function (link) {
-        link.addEventListener('click', function () {
-          nav.classList.remove('is-open');
-          toggle.classList.remove('is-open');
-          toggle.setAttribute('aria-expanded', 'false');
-        });
-      });
-    });
-  </script>
 </body>
 </html>
