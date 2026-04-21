@@ -1,6 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
 
-  // 🔹 MENÚ MÒBIL
   const toggle = document.querySelector('.nav-toggle');
   const nav = document.querySelector('.main-nav');
 
@@ -20,7 +19,6 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
-  // 🔹 FORMULARI
   const form = document.getElementById("contact-form");
   const status = document.getElementById("form-status");
 
@@ -78,6 +76,44 @@ document.addEventListener("DOMContentLoaded", function () {
         submitButton.disabled = false;
       }
     });
+  }
+  
+    const banner = document.getElementById("cookie-banner");
+  const acceptBtn = document.getElementById("accept-cookies");
+  const rejectBtn = document.getElementById("reject-cookies");
+
+  const consent = localStorage.getItem("cookie-consent");
+
+  if (consent === "accepted") {
+    loadAnalytics();
+    banner.style.display = "none";
+  } else if (consent === "rejected") {
+    banner.style.display = "none";
+  }
+
+  acceptBtn?.addEventListener("click", function () {
+    localStorage.setItem("cookie-consent", "accepted");
+    loadAnalytics();
+    banner.style.display = "none";
+  });
+
+  rejectBtn?.addEventListener("click", function () {
+    localStorage.setItem("cookie-consent", "rejected");
+    banner.style.display = "none";
+  });
+
+  function loadAnalytics() {
+    const script = document.createElement("script");
+    script.src = "https://www.googletagmanager.com/gtag/js?id=G-D55G8427FP";
+    script.async = true;
+    document.head.appendChild(script);
+
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    window.gtag = gtag;
+
+    gtag('js', new Date());
+    gtag('config', 'G-D55G8427FP', { anonymize_ip: true });
   }
 
 });

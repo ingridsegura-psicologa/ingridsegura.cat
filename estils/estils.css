@@ -987,3 +987,61 @@ select.input{
   color: var(--text);
   border-color: var(--line-strong);
 }
+
+.whatsapp-subscribe{
+  padding: 80px 20px;
+  background: var(--surface-soft);
+  text-align: center;
+}
+
+.whatsapp-inner{
+  max-width: 620px;
+  margin: 0 auto;
+}
+
+.whatsapp-subscribe h3{
+  font-size: 28px;
+  margin-bottom: 12px;
+}
+
+.whatsapp-subscribe p{
+  color: var(--muted);
+  margin-bottom: 24px;
+}
+
+.cookie-banner{
+  position: fixed;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%);
+  
+  width: calc(100% - 40px);
+  max-width: 640px;
+
+  background: #ffffff; /* blanc clar */
+  border: 1px solid rgba(127,145,141,.25);
+  border-radius: 18px;
+
+  padding: 18px 20px;
+
+  box-shadow: 0 12px 30px rgba(0,0,0,.08); /* una mica més visible */
+  z-index: 9999;
+  backdrop-filter: blur(6px);
+
+}
+.cookie-banner p{
+  font-size: 14px;
+  color: var(--text);
+  margin-bottom: 12px;
+}
+
+.cookie-buttons{
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+.cookie-banner a{
+  text-decoration: underline;
+  color: var(--text-strong);
+}
