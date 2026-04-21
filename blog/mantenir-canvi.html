@@ -51,8 +51,63 @@
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.ingridsegura.cat/blog/mantenir-canvi.html"
-  }
+  },
+ "areaServed": [
+	 { "@type": "Place", "name": "Altafulla" },
+	 { "@type": "Place", "name": "Torredembarra" },
+	 { "@type": "Place", "name": "La Riera del Gaià" },
+     { "@type": "Place", "name": "La Pobla de Montornès" },
+	 { "@type": "Place", "name": "La Sénia" }
+ ],
+ "description": "Psicòloga que ofereix acompanyament psicològic per a ansietat, processos vitals, autoestima i creixement personal.",
+ "knowsLanguage": ["ca","es"],
+ "medicalSpecialty": [
+	  "Psychotherapy",
+	  "Anxiety",
+	  "Life Transitions",
+	  "Personal Development",
+	  "Family Counseling"
+ ],
+ "availableService": [
+   {
+     "@type": "Service",
+     "name": "Teràpia psicològica online",
+     "availableChannel": {
+       "@type": "ServiceChannel",
+       "serviceLocation": {
+         "@type": "VirtualLocation"
+       }
+     }
+   },
+   {
+     "@type": "Service",
+     "name": "Teràpia psicològica a domicili",
+     "availableChannel": {
+       "@type": "ServiceChannel",
+       "serviceLocation": {
+         "@type": "Place"
+       }
+     }
+   },
+   {
+     "@type": "Service",
+     "name": "Acompanyament terapèutic caminant",
+     "areaServed": {
+       "@type": "Place",
+       "name": "Altafulla"
+     }
+   }
+ ]
 }
+</script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D55G8427FP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-D55G8427FP');
 </script>
 <script src="../js/main.js"></script>
 
