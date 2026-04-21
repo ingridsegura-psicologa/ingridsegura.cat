@@ -38,9 +38,62 @@
  "@type": ["Psychologist","LocalBusiness"],
  "name": "Ingrid Segura Bertomeu",
  "jobTitle": "Psicóloga",
- "url": "https://ingridsegura.cat/"
+ "url": "https://ingridsegura.cat/",
+ "description": "Psicóloga que ofrece acompañamiento psicológico para ansiedad, procesos vitales, autoestima y crecimiento personal.",
+ "knowsLanguage": ["ca","es"],
+ "areaServed": [
+	 { "@type": "Place", "name": "Altafulla" },
+	 { "@type": "Place", "name": "Torredembarra" },
+	 { "@type": "Place", "name": "La Riera del Gaià" },
+     { "@type": "Place", "name": "La Pobla de Montornès" },
+	 { "@type": "Place", "name": "La Sénia" }
+ ],
+  "medicalSpecialty": [
+	  "Psychotherapy",
+	  "Anxiety",
+	  "Life Transitions",
+	  "Personal Development",
+	  "Family Counseling"
+ ],
+ "availableService": [
+   {
+     "@type": "Service",
+     "name": "Terapia psicológica online",
+     "availableChannel": {
+       "@type": "ServiceChannel",
+       "serviceLocation": {
+         "@type": "VirtualLocation"
+       }
+     }
+   },
+   {
+     "@type": "Service",
+     "name": "Terapia psicológica a domicilio",
+     "availableChannel": {
+       "@type": "ServiceChannel",
+       "serviceLocation": {
+         "@type": "Place"
+       }
+     }
+   },
+   {
+     "@type": "Service",
+     "name": "Acompañamiento terapéutico caminando"
+   }
+ ]
 }
 </script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D55G8427FP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-D55G8427FP');
+</script>
+<script src="js/main.js"></script>
+
 </head>
 
 <body>
@@ -174,7 +227,6 @@
   </div>
 </footer>
 
-<script src="js/main.js"></script>
 
 </body>
 </html>
