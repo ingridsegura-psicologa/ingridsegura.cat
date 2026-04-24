@@ -1045,3 +1045,27 @@ select.input{
   text-decoration: underline;
   color: var(--text-strong);
 }
+
+@media (max-width: 600px){
+
+  .cookie-banner{
+    width: calc(100% - 24px); /* menys marge lateral */
+    bottom: 12px; /* més enganxat a baix */
+    padding: 16px;
+    border-radius: 16px;
+  }
+
+  .cookie-banner p{
+    font-size: 13px;
+    line-height: 1.4;
+  }
+
+  .cookie-buttons{
+    flex-direction: column; /* botons un sota l’altre */
+    gap: 8px;
+  }
+
+  .cookie-buttons .button-line{
+    width: 100%; /* ocupen tot l’ample */
+  }
+}
