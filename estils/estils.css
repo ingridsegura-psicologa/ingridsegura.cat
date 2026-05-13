@@ -1069,3 +1069,23 @@ select.input{
     width: 100%; /* ocupen tot l’ample */
   }
 }
+
+.post-image {
+  float: right;
+  margin: 0 0 1.5rem 2rem;
+  max-width: 280px;
+}
+
+.post-image img {
+  width: 100%;
+  border-radius: 14px;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .post-image {
+    float: none;
+    margin: 2rem auto;
+    max-width: 100%;
+  }
+}
