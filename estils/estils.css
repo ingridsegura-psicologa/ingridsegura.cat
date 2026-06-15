@@ -745,6 +745,14 @@ select.input{
   text-underline-offset:3px;
 }
 
+.blog-card-image{
+  width:100%;
+  aspect-ratio:16/9;
+  object-fit:cover;
+  border-radius:12px;
+  margin:1rem 0;
+}
+
 /* Blog post */
 .post-header{padding:54px 0 18px}
 .post-back a{
