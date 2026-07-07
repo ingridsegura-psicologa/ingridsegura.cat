@@ -1,0 +1,216 @@
+[
+  {
+    "id": "demanar-ajuda",
+    "title": "¿Por qué me cuesta pedir ayuda?",
+    "date": "2026-07-07",
+    "date_text": "7 de julio de 2026",
+    "description": "Pedir ayuda no siempre es fácil. A menudo aparece el miedo a molestar, a parecer débil o la sensación de que deberías poder con todo. Descubre por qué ocurre y cómo empezar a dejarte acompañar.",
+    "image": "blog/img/demanar-ajuda.webp",
+    "image_alt": "Dos personas conversando con calma en un espacio exterior tranquilo",
+    "url": "blog/demanar-ajuda_es.html",
+    "featured": true,
+    "tags": [
+      "terapia",
+      "autocura"
+    ]
+  },
+  {
+    "id": "assertivitat",
+    "title": "¿Qué es la asertividad y cómo empezar a practicarla?",
+    "date": "2026-06-29",
+    "date_text": "29 de junio de 2026",
+    "description": "La asertividad no es imponerte ni callar lo que sientes. Descubre cómo expresar lo que piensas o necesitas con respeto y algunas herramientas para empezar a practicarla.",
+    "image": "blog/img/assertivitat.webp",
+    "image_alt": "Dos personas caminando y conversando bajo un arco de piedra frente al mar",
+    "url": "blog/assertivitat_es.html",
+    "featured": true,
+    "tags": [
+      "relacions",
+      "autocura"
+    ]
+  },
+  {
+    "id": "no-tinc-clar-que-vull",
+    "title": "¿Y si no tengo claro lo que quiero?",
+    "date": "2026-06-22",
+    "date_text": "22 de junio de 2026",
+    "description": "No tener claro qué estudiar, qué camino escoger o qué quieres hacer con tu vida puede generar mucha presión. Descubre por qué es normal sentirte así y cómo empezar a avanzar sin tenerlo todo decidido.",
+    "image": "blog/img/no-tinc-clar-que-vull.webp",
+    "image_alt": "Persona caminando por un sendero de montaña con una bifurcación delante",
+    "url": "blog/no-tinc-clar-que-vull_es.html",
+    "featured": true,
+    "tags": [
+      "canvis",
+      "autocura"
+    ]
+  },
+  {
+    "id": "quan-anar-terapia",
+    "title": "¿Cuándo es un buen momento para ir a terapia?",
+    "date": "2026-06-15",
+    "date_text": "15 de junio de 2026",
+    "description": "¿Hace falta estar muy mal para ir a terapia? Descubre algunas señales que pueden indicar que es un buen momento para buscar ayuda psicológica, aunque no estés en crisis.",
+    "image": "blog/img/quan-anar-terapia.webp",
+    "image_alt": "Persona observando el mar durante la puesta de sol",
+    "url": "blog/quan-anar-terapia_es.html",
+    "featured": true,
+    "tags": [
+      "terapia"
+    ]
+  },
+  {
+    "id": "no-surt-com-esperaves",
+    "title": "¿Y si no sale como esperabas?",
+    "date": "2026-06-07",
+    "date_text": "7 de junio de 2026",
+    "description": "Cuando una prueba, una entrevista o una situación importante no sale como esperabas, pueden aparecer frustración, culpa o miedo al fracaso. Descubre cómo gestionar la decepción sin confundir un resultado con tu valor personal.",
+    "image": "blog/img/no-surt-com-esperaves.webp",
+    "image_alt": "Persona reflexionando después de un resultado inesperado",
+    "url": "blog/no-surt-com-esperaves_es.html",
+    "featured": true,
+    "tags": [
+      "emocions",
+      "autoestima"
+    ]
+  },
+  {
+    "id": "comparacio-constant",
+    "title": "¿Te comparas constantemente con los demás?",
+    "date": "2026-05-31",
+    "date_text": "31 de mayo de 2026",
+    "description": "Compararte con los demás puede hacerte sentir que siempre vas tarde o que no eres suficiente. Entiende por qué pasa y cómo empezar a mirarte de otra manera.",
+    "image": "blog/img/comparacio-constant.webp",
+    "image_alt": "Persona comparándose con otras personas",
+    "url": "blog/comparacio-constant_es.html",
+    "featured": true,
+    "tags": [
+      "autoestima",
+      "xarxes"
+    ]
+  },
+  {
+    "id": "pressio-examens",
+    "title": "Cómo gestionar la presión antes de una prueba importante",
+    "date": "2026-05-25",
+    "date_text": "25 de mayo de 2026",
+    "description": "Cuando se acerca una prueba importante, la presión y los nervios pueden acabar bloqueándote. Descubre cómo prepararte sin tanta exigencia.",
+    "url": "blog/pressio-examens_es.html",
+    "featured": false,
+    "tags": [
+      "ansietat",
+      "emocions"
+    ]
+  },
+  {
+    "id": "instagram-validacio",
+    "title": "¿Qué buscamos realmente cuando entramos en Instagram?",
+    "date": "2026-05-20",
+    "date_text": "20 de mayo de 2026",
+    "description": "Instagram no es solo entretenimiento. A veces también buscamos validación, distracción o una manera de escapar de lo que sentimos.",
+    "url": "blog/instagram-validacio_es.html",
+    "featured": false,
+    "tags": [
+      "xarxes",
+      "autoestima"
+    ]
+  },
+  {
+    "id": "tot-pesa",
+    "title": "Cuando incluso las cosas pequeñas pesan",
+    "date": "2026-05-13",
+    "date_text": "13 de mayo de 2026",
+    "description": "Hay momentos en los que no tienes ganas de nada y hasta las cosas pequeñas cuestan más de lo normal. Entiende qué puede haber detrás de este cansancio emocional.",
+    "url": "blog/tot-pesa_es.html",
+    "featured": false,
+    "tags": [
+      "emocions"
+    ]
+  },
+  {
+    "id": "tot-o-res",
+    "title": "Cuando te dices que no haces nada bien",
+    "date": "2026-05-05",
+    "date_text": "5 de mayo de 2026",
+    "description": "Frases como “todo lo hago mal” pueden afectar cómo te sientes y cómo te relacionas contigo mismo/a. Entiende por qué aparecen y cómo empezar a mirarlas de otra manera.",
+    "url": "blog/tot-o-res_es.html",
+    "featured": false,
+    "tags": [
+      "autoestima"
+    ]
+  },
+  {
+    "id": "reduir-tensio",
+    "title": "Cuando tu cabeza no para… tu cuerpo tampoco",
+    "date": "2026-04-26",
+    "date_text": "26 de abril de 2026",
+    "description": "Cuando le das muchas vueltas a las cosas, el cuerpo también lo nota. Descubre cómo reducir la tensión y la ansiedad a través del cuerpo.",
+    "url": "blog/reduir-tensio_es.html",
+    "featured": false,
+    "tags": [
+      "ansietat",
+      "emocions"
+    ]
+  },
+  {
+    "id": "mantenir-canvi",
+    "title": "Cuando ya has decidido… pero la mente te hace dudar",
+    "date": "2026-04-19",
+    "date_text": "19 de abril de 2026",
+    "description": "Has tomado una decisión, pero ahora aparecen dudas que te hacen cuestionarlo todo. Entiende qué hay detrás de estos pensamientos.",
+    "url": "blog/mantenir-canvi_es.html",
+    "featured": false,
+    "tags": [
+      "canvis",
+      "ansietat"
+    ]
+  },
+  {
+    "id": "por-canvi",
+    "title": "¿Sientes que necesitas un cambio, pero algo te frena?",
+    "date": "2026-04-08",
+    "date_text": "8 de abril de 2026",
+    "description": "Hay momentos en los que sabes que algo debería cambiar, pero no acabas de dar el paso.",
+    "url": "blog/por-canvi_es.html",
+    "featured": false,
+    "tags": [
+      "canvis"
+    ]
+  },
+  {
+    "id": "nivell-ansietat",
+    "title": "La ansiedad está más presente de lo que parece… ¿pero hasta qué punto?",
+    "date": "2026-04-04",
+    "date_text": "4 de abril de 2026",
+    "description": "Los datos muestran que está mucho más presente de lo que a menudo imaginamos.",
+    "url": "blog/nivell-ansietat_es.html",
+    "featured": false,
+    "tags": [
+      "ansietat"
+    ]
+  },
+  {
+    "id": "dia-corrents",
+    "title": "¿Vas todo el día corriendo, pero sientes que nunca llegas a todo?",
+    "date": "2026-03-31",
+    "date_text": "31 de marzo de 2026",
+    "description": "¿Siempre vas con prisa y te cuesta parar? Descubre qué hay detrás de este ritmo constante.",
+    "url": "blog/dia-corrents_es.html",
+    "featured": false,
+    "tags": [
+      "ansietat",
+      "autocura"
+    ]
+  },
+  {
+    "id": "terapia-online",
+    "title": "¿La terapia online es igual de efectiva que la presencial?",
+    "date": "2026-03-30",
+    "date_text": "30 de marzo de 2026",
+    "description": "Es normal tener dudas sobre si la terapia online puede ayudar realmente...",
+    "url": "blog/terapia-online_es.html",
+    "featured": false,
+    "tags": [
+      "terapia"
+    ]
+  }
+]
