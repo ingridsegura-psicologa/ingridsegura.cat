@@ -1,4 +1,19 @@
 [
+{
+  "id": "gaudir-coses-bones",
+  "title": "¿Por qué me cuesta disfrutar de las cosas buenas?",
+  "date": "2026-07-14",
+  "date_text": "14 de julio de 2026",
+  "description": "¿Te cuesta disfrutar cuando las cosas van bien? Descubre por qué la mente sigue en alerta, qué hay detrás del miedo a que lo bueno se acabe y cómo empezar a vivir más presente.",
+  "image": "blog/img/gaudir-coses-bones.webp",
+  "image_alt": "Persona observando un paisaje tranquilo con luz suave",
+  "url": "blog/gaudir-coses-bones_es.html",
+  "featured": true,
+  "tags": [
+    "ansietat",
+    "emocions"
+  ]
+}, 
   {
     "id": "demanar-ajuda",
     "title": "¿Por qué me cuesta pedir ayuda?",

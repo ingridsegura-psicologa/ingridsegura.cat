@@ -1,4 +1,19 @@
 [
+	{
+	  "id": "gaudir-coses-bones",
+	  "title": "Per què em costa gaudir de les coses bones?",
+	  "date": "2026-07-14",
+	  "date_text": "14 de juliol 2026",
+	  "description": "Et costa gaudir quan les coses van bé? Descobreix per què la ment continua en alerta, què hi ha darrere de la por que les coses bones s'acabin i com començar a viure més present.",
+	  "image": "blog/img/gaudir-coses-bones.webp",
+	  "image_alt": "Persona observant un paisatge tranquil amb llum suau",
+	  "url": "blog/gaudir-coses-bones.html",
+	  "featured": true,
+	  "tags": [
+		"ansietat",
+		"emocions"
+	  ]
+	},
   {
     "id": "demanar-ajuda",
     "title": "Per què em costa demanar ajuda?",
