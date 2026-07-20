@@ -1,5 +1,21 @@
 [
 	{
+	  "id": "gestionar-ruptura-parella",
+	  "title": "Com gestionar una ruptura de parella",
+	  "date": "2026-07-19",
+	  "date_text": "19 de juliol 2026",
+	  "description": "Una ruptura de parella pot remoure molt més que la pèrdua d'una persona. Descobreix per què és tan dolorosa, què és normal sentir i com començar a reconstruir la teva vida al teu ritme.",
+	  "image": "blog/img/gestionar-ruptura-parella.webp",
+	  "image_alt": "Persona caminant sola per un paisatge tranquil durant el procés d'una ruptura",
+	  "url": "blog/gestionar-ruptura-parella.html",
+	  "featured": true,
+	  "tags": [
+		"parella",
+		"relacions",
+		"emocions"
+	  ]
+	},
+	{
 	  "id": "gaudir-coses-bones",
 	  "title": "Per què em costa gaudir de les coses bones?",
 	  "date": "2026-07-14",

@@ -1,19 +1,35 @@
 [
-{
-  "id": "gaudir-coses-bones",
-  "title": "¿Por qué me cuesta disfrutar de las cosas buenas?",
-  "date": "2026-07-14",
-  "date_text": "14 de julio de 2026",
-  "description": "¿Te cuesta disfrutar cuando las cosas van bien? Descubre por qué la mente sigue en alerta, qué hay detrás del miedo a que lo bueno se acabe y cómo empezar a vivir más presente.",
-  "image": "blog/img/gaudir-coses-bones.webp",
-  "image_alt": "Persona observando un paisaje tranquilo con luz suave",
-  "url": "blog/gaudir-coses-bones_es.html",
-  "featured": true,
-  "tags": [
-    "ansietat",
-    "emocions"
-  ]
-}, 
+	{
+	  "id": "gestionar-ruptura-parella",
+	  "title": "Cómo gestionar una ruptura de pareja",
+	  "date": "2026-07-19",
+	  "date_text": "19 de julio de 2026",
+	  "description": "Una ruptura de pareja puede remover mucho más que la pérdida de una persona. Descubre por qué resulta tan dolorosa, qué es normal sentir y cómo empezar a reconstruir tu vida a tu ritmo.",
+	  "image": "blog/img/gestionar-ruptura-parella.webp",
+	  "image_alt": "Persona caminando sola por un paisaje tranquilo durante el proceso de una ruptura",
+	  "url": "blog/gestionar-ruptura-parella_es.html",
+	  "featured": true,
+	  "tags": [
+		"parella",
+		"relacions",
+		"emocions"
+	  ]
+	},
+	{
+	  "id": "gaudir-coses-bones",
+	  "title": "¿Por qué me cuesta disfrutar de las cosas buenas?",
+	  "date": "2026-07-14",
+	  "date_text": "14 de julio de 2026",
+	  "description": "¿Te cuesta disfrutar cuando las cosas van bien? Descubre por qué la mente sigue en alerta, qué hay detrás del miedo a que lo bueno se acabe y cómo empezar a vivir más presente.",
+	  "image": "blog/img/gaudir-coses-bones.webp",
+	  "image_alt": "Persona observando un paisaje tranquilo con luz suave",
+	  "url": "blog/gaudir-coses-bones_es.html",
+	  "featured": true,
+	  "tags": [
+		"ansietat",
+		"emocions"
+	  ]
+	}, 
   {
     "id": "demanar-ajuda",
     "title": "¿Por qué me cuesta pedir ayuda?",
