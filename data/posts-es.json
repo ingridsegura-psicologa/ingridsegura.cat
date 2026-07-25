@@ -1,5 +1,21 @@
 [
 	{
+  "id": "gestionar-ruptura-parella",
+  "title": "Cómo gestionar una ruptura de pareja",
+  "date": "2026-07-19",
+  "date_text": "19 de julio de 2026",
+  "description": "Una ruptura de pareja no implica solo perder a una persona. Descubre por qué es tan dolorosa, qué es normal sentir y cómo empezar a reconstruir tu vida a tu ritmo.",
+  "image": "blog/img/gestionar-ruptura-parella.webp",
+  "image_alt": "Persona caminando sola por un paisaje tranquilo durante el proceso de una ruptura",
+  "url": "blog/gestionar-ruptura-parella_es.html",
+  "featured": true,
+  "tags": [
+    "parella",
+    "relacions",
+    "emocions"
+  ]
+},
+	{
 	  "id": "gestionar-ruptura-parella",
 	  "title": "Cómo gestionar una ruptura de pareja",
 	  "date": "2026-07-19",
