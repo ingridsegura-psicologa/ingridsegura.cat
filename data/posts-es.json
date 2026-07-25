@@ -1,17 +1,17 @@
 [
 	{
-  "id": "gestionar-ruptura-parella",
-  "title": "Cómo gestionar una ruptura de pareja",
-  "date": "2026-07-19",
-  "date_text": "19 de julio de 2026",
-  "description": "Una ruptura de pareja no implica solo perder a una persona. Descubre por qué es tan dolorosa, qué es normal sentir y cómo empezar a reconstruir tu vida a tu ritmo.",
-  "image": "blog/img/gestionar-ruptura-parella.webp",
-  "image_alt": "Persona caminando sola por un paisaje tranquilo durante el proceso de una ruptura",
-  "url": "blog/gestionar-ruptura-parella_es.html",
+  "id": "autoestima",
+  "title": "Què és l'autoestima i com es treballa?",
+  "date": "2026-07-26",
+  "date_text": "26 de juliol 2026",
+  "description": "Què és realment l'autoestima? Descobreix com es construeix, quins factors la poden afectar i com començar a relacionar-te amb tu mateix/a amb més respecte.",
+  "image": "blog/img/autoestima.webp",
+  "image_alt": "Persona contemplant el seu reflex en un llac en un entorn natural i tranquil",
+  "url": "blog/autoestima.html",
   "featured": true,
   "tags": [
-    "relaciones",
-    "emociones"
+    "autoestima",
+    "emocions"
   ]
 },
 	{
