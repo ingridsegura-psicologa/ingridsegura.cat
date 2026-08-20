@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<url><loc>https://ingridsegura.cat/</loc></url>
 <url><loc>https://ingridsegura.cat/sobre-mi.html</loc></url>
 <url><loc>https://ingridsegura.cat/contacte.html</loc></url>
 <url><loc>https://ingridsegura.cat/faqs.html</loc></url>
 <url><loc>https://ingridsegura.cat/avis-legal.html</loc></url>
 <url><loc>https://ingridsegura.cat/gracies.html</loc></url>
 
-<url><loc>https://ingridsegura.cat/index_es.html</loc></url>
 <url><loc>https://ingridsegura.cat/sobre-mi_es.html</loc></url>
 <url><loc>https://ingridsegura.cat/contacte_es.html</loc></url>
 <url><loc>https://ingridsegura.cat/faqs_es.html</loc></url>
 <url><loc>https://ingridsegura.cat/avis-legal_es.html</loc></url>
 <url><loc>https://ingridsegura.cat/gracies_es.html</loc></url>
 
+<url><loc>https://ingridsegura.cat/</loc><lastmod>2026-08-20</lastmod></url>
+<url><loc>https://ingridsegura.cat/index_es.html</loc><lastmod>2026-08-20</lastmod></url>
 
 <url><loc>https://ingridsegura.cat/serveis.html</loc><lastmod>2026-05-31</lastmod></url>
 <url><loc>https://ingridsegura.cat/serveis_es.html</loc><lastmod>2026-05-31</lastmod></url>
