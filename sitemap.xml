@@ -3,7 +3,6 @@
 
 <url><loc>https://ingridsegura.cat/</loc></url>
 <url><loc>https://ingridsegura.cat/sobre-mi.html</loc></url>
-<url><loc>https://ingridsegura.cat/arees-especialitzacio.html</loc></url>
 <url><loc>https://ingridsegura.cat/contacte.html</loc></url>
 <url><loc>https://ingridsegura.cat/faqs.html</loc></url>
 <url><loc>https://ingridsegura.cat/avis-legal.html</loc></url>
@@ -11,7 +10,6 @@
 
 <url><loc>https://ingridsegura.cat/index_es.html</loc></url>
 <url><loc>https://ingridsegura.cat/sobre-mi_es.html</loc></url>
-<url><loc>https://ingridsegura.cat/arees-especialitzacio_es.html</loc></url>
 <url><loc>https://ingridsegura.cat/contacte_es.html</loc></url>
 <url><loc>https://ingridsegura.cat/faqs_es.html</loc></url>
 <url><loc>https://ingridsegura.cat/avis-legal_es.html</loc></url>
@@ -25,26 +23,55 @@
 <url><loc>https://ingridsegura.cat/zones-atencio.html</loc><lastmod>2026-05-31</lastmod></url>
 <url><loc>https://ingridsegura.cat/zones-atencio_es.html</loc><lastmod>2026-05-31</lastmod></url>
 
-
+<url><loc>https://ingridsegura.cat/arees-especialitzacio.html</loc><lastmod>2026-07-20</lastmod></url>
+<url><loc>https://ingridsegura.cat/arees-especialitzacio_es.html</loc><lastmod>2026-07-20</lastmod></url>
 
 <url>
 	<loc>https://ingridsegura.cat/blog.html</loc>
-	<lastmod>2026-07-25</lastmod>
+	<lastmod>2026-07-20</lastmod>
 </url>
 <url>
 	<loc>https://ingridsegura.cat/blog_es.html</loc>
-	<lastmod>2026-07-25</lastmod>
+	<lastmod>2026-07-20</lastmod>
 </url>
 
 <url>
-	<loc>https://ingridsegura.cat/blog/que-es-autoestima.html</loc>
-	<lastmod>2026-07-25</lastmod>
+	<loc>https://ingridsegura.cat/area-ansietat.html</loc>
+	<lastmod>2026-08-20</lastmod>
 </url>
 <url>
-	<loc>https://ingridsegura.cat/blog/que-es-autoestima_es.html</loc>
-	<lastmod>2026-07-25</lastmod>
+	<loc>https://ingridsegura.cat/area-ansietat_es.html</loc>
+	<lastmod>2026-08-20</lastmod>
 </url>
-	
+
+<url>
+	<loc>https://ingridsegura.cat/area-autoestima.html</loc>
+	<lastmod>2026-08-20</lastmod>
+</url>
+<url>
+	<loc>https://ingridsegura.cat/area-autoestima_es.html</loc>
+	<lastmod>2026-08-20</lastmod>
+</url>
+
+<url>
+	<loc>https://ingridsegura.cat/area-processos-vitals.html</loc>
+	<lastmod>2026-08-20</lastmod>
+</url>
+<url>
+	<loc>https://ingridsegura.cat/area-processos-vitals_es.html</loc>
+	<lastmod>2026-08-20</lastmod>
+</url>
+
+
+<url>
+	<loc>https://ingridsegura.cat/area-pors-fobies.html</loc>
+	<lastmod>2026-08-20</lastmod>
+</url>
+<url>
+	<loc>https://ingridsegura.cat/area-pors-fobies_es.html</loc>
+	<lastmod>2026-08-20</lastmod>
+</url>
+
 
 <url>
 	<loc>https://ingridsegura.cat/blog/gestionar-ruptura-parella.html</loc>
