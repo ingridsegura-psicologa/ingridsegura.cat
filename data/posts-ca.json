@@ -1,50 +1,51 @@
 [
-{
-  "id": "autoestima",
-  "title": "Què és l'autoestima i com es treballa?",
-  "date": "2026-07-26",
-  "date_text": "26 de juliol 2026",
-  "description": "Què és realment l'autoestima? Descobreix com es construeix, quins factors la poden afectar i com començar a relacionar-te amb tu mateix/a amb més respecte.",
-  "image": "blog/img/que-es-autoestima.webp",
-  "image_alt": "Persona contemplant el seu reflex en un llac en un entorn natural i tranquil",
-  "url": "blog/que-es-autoestima.html",
-  "featured": true,
-  "tags": [
-    "autoestima",
-    "emocions"
-  ]
-},
-	{
-	  "id": "gestionar-ruptura-parella",
-	  "title": "Com gestionar una ruptura de parella",
-	  "date": "2026-07-19",
-	  "date_text": "19 de juliol 2026",
-	  "description": "Una ruptura de parella pot remoure molt més que la pèrdua d'una persona. Descobreix per què és tan dolorosa, què és normal sentir i com començar a reconstruir la teva vida al teu ritme.",
-	  "image": "blog/img/gestionar-ruptura-parella.webp",
-	  "image_alt": "Persona caminant sola per un paisatge tranquil durant el procés d'una ruptura",
-	  "url": "blog/gestionar-ruptura-parella.html",
-	  "featured": true,
-	  "tags": [
-		"parella",
-		"relacions",
-		"emocions"
-	  ]
-	},
-	{
-	  "id": "gaudir-coses-bones",
-	  "title": "Per què em costa gaudir de les coses bones?",
-	  "date": "2026-07-14",
-	  "date_text": "14 de juliol 2026",
-	  "description": "Et costa gaudir quan les coses van bé? Descobreix per què la ment continua en alerta, què hi ha darrere de la por que les coses bones s'acabin i com començar a viure més present.",
-	  "image": "blog/img/gaudir-coses-bones.webp",
-	  "image_alt": "Persona observant un paisatge tranquil amb llum suau",
-	  "url": "blog/gaudir-coses-bones.html",
-	  "featured": true,
-	  "tags": [
-		"ansietat",
-		"emocions"
-	  ]
-	},
+  {
+    "id": "relacio-toxica",
+    "title": "Com saber si estic en una relació tòxica? Senyals d'alarma que no hauries de normalitzar",
+    "date": "2026-08-31",
+    "date_text": "31 d'agost 2026",
+    "description": "El control, la gelosia, la culpa o la pèrdua d'autonomia poden ser senyals d'una relació poc saludable. Descobreix què observar i quins senyals no hauries de normalitzar.",
+    "image": "blog/img/relacio-toxica.webp",
+    "image_alt": "Persona reflexionant sobre una relació de parella i la necessitat de posar límits",
+    "url": "blog/relacio-toxica.html",
+    "featured": true,
+    "tags": [
+      "parella",
+      "relacions",
+      "emocions"
+    ]
+  },
+  {
+    "id": "gestionar-ruptura-parella",
+    "title": "Com gestionar una ruptura de parella",
+    "date": "2026-07-19",
+    "date_text": "19 de juliol 2026",
+    "description": "Una ruptura de parella pot remoure molt més que la pèrdua d'una persona. Descobreix per què és tan dolorosa, què és normal sentir i com començar a reconstruir la teva vida al teu ritme.",
+    "image": "blog/img/gestionar-ruptura-parella.webp",
+    "image_alt": "Persona caminant sola per un paisatge tranquil durant el procés d'una ruptura",
+    "url": "blog/gestionar-ruptura-parella.html",
+    "featured": true,
+    "tags": [
+      "parella",
+      "relacions",
+      "emocions"
+    ]
+  },
+  {
+    "id": "gaudir-coses-bones",
+    "title": "Per què em costa gaudir de les coses bones?",
+    "date": "2026-07-14",
+    "date_text": "14 de juliol 2026",
+    "description": "Et costa gaudir quan les coses van bé? Descobreix per què la ment continua en alerta, què hi ha darrere de la por que les coses bones s'acabin i com començar a viure més present.",
+    "image": "blog/img/gaudir-coses-bones.webp",
+    "image_alt": "Persona observant un paisatge tranquil amb llum suau",
+    "url": "blog/gaudir-coses-bones.html",
+    "featured": true,
+    "tags": [
+      "ansietat",
+      "emocions"
+    ]
+  },
   {
     "id": "demanar-ajuda",
     "title": "Per què em costa demanar ajuda?",
