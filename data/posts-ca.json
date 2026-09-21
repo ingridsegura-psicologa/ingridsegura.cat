@@ -1,5 +1,17 @@
 [
   {
+    "id": "i-si-no-puc-amb-tot",
+    "title": "I si no puc amb tot? Quan les dificultats et fan dubtar de tu",
+    "date": "2026-09-21",
+    "date_text": "21 de setembre 2026",
+    "description": "Quan les responsabilitats s'acumulen, pots sentir que no podràs amb tot. Descobreix com gestionar la por, l'autoexigència i la sensació de desbordament.",
+    "image": "blog/img/i-si-no-puc-amb-tot.webp",
+    "image_alt": "Persona davant d'una taula amb llibres i una llibreta, reflexionant sobre les responsabilitats del nou curs",
+    "url": "blog/i-si-no-puc-amb-tot.html",
+    "featured": false,
+    "tags": []
+  },
+  {
     "id": "sindrome-niu-buit",
     "title": "Síndrome del niu buit: com afrontar que els fills marxin de casa?",
     "date": "2026-09-14",

@@ -1,5 +1,17 @@
 [
   {
+    "id": "i-si-no-puc-amb-tot",
+    "title": "¿Y si no puedo con todo? Cuando las dificultades te hacen dudar de ti",
+    "date": "2026-09-21",
+    "date_text": "21 de septiembre de 2026",
+    "description": "Cuando las responsabilidades se acumulan, puedes sentir que no podrás con todo. Descubre cómo gestionar el miedo, la autoexigencia y la sensación de desbordamiento.",
+    "image": "blog/img/i-si-no-puc-amb-tot.webp",
+    "image_alt": "Persona ante una mesa con libros y un cuaderno, reflexionando sobre las responsabilidades del nuevo curso",
+    "url": "blog/i-si-no-puc-amb-tot_es.html",
+    "featured": false,
+    "tags": []
+  },
+  {
     "id": "sindrome-niu-buit",
     "title": "Síndrome del nido vacío: ¿cómo afrontar que los hijos se vayan de casa?",
     "date": "2026-09-14",
