@@ -21,10 +21,14 @@ C:\web\ingrid\
         ├── relacio-toxica.json
         └── relacio-toxica_es.json
 
+Fitxers que necessita
+================
+posts/*.json
+blog/img/*.webp
 
 
 Fitxers que genera
-_____
+================
 blog/<id>.html
 blog/<id>_es.html
 data/posts-ca.json
