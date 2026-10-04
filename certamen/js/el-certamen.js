@@ -148,5 +148,14 @@ const translations = {
 const original = Object.fromEntries([...document.querySelectorAll('[data-t]')].map(el=>[el.dataset.t,el.textContent]));
 function setLanguage(lang){const words=translations[lang]||original;document.documentElement.lang=lang;document.querySelectorAll('[data-t]').forEach(el=>{el.textContent=words[el.dataset.t]??original[el.dataset.t]});document.querySelectorAll('[data-lang]').forEach(button=>button.setAttribute('aria-pressed',String(button.dataset.lang===lang)));try{localStorage.setItem('certamen-lang',lang)}catch(e){}}
 document.querySelectorAll('[data-lang]').forEach(button=>button.addEventListener('click',()=>setLanguage(button.dataset.lang)));
-const menu=document.querySelector('[data-menu]'),nav=document.querySelector('#nav');menu.addEventListener('click',()=>{const open=menu.getAttribute('aria-expanded')==='true';menu.setAttribute('aria-expanded',String(!open));nav.classList.toggle('open',!open)});
+const menu = document.querySelector('.menu-toggle');
+const nav = document.querySelector('#nav');
+
+if (menu && nav) {
+    menu.addEventListener('click', () => {
+        const open = menu.getAttribute('aria-expanded') === 'true';
+        menu.setAttribute('aria-expanded', String(!open));
+        nav.classList.toggle('open', !open);
+    });
+}
 try{const saved=localStorage.getItem('certamen-lang');if(saved&&['ca','es','en','pt','gl'].includes(saved))setLanguage(saved)}catch(e){}
