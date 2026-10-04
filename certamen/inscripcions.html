@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="ca">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Inscripcions · Certamen Vila de la Sénia</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="formularis.css">
+  <script src="formularis-traduccions.js" defer></script>
+  <script src="formularis.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">Salta al contingut</a>
+<header class="header"><a class="brand" href="index.html"><img class="brand-logo" src="assets/logo-silver.png" alt="" width="56" height="56"><span><strong>CERTAMEN</strong><small>VILA DE LA SÉNIA</small></span></a><button class="menu-toggle" type="button" aria-controls="nav" aria-expanded="false">Menú</button><nav class="nav" id="nav"><a href="index.html" data-f="back">Torna a l’inici</a><a href="el-certamen.html">El Certamen</a><a href="territori.html">La Sénia i el territori</a><a href="faq.html" data-f="faq">Preguntes freqüents</a><a href="contacte.html" data-f="contact">Contacte</a><a href="inscripcions.html" data-f="registration">Inscripcions</a></nav><div class="langs" aria-label="Idioma"><button type="button" data-lang="ca" aria-pressed="true">CA</button><button type="button" data-lang="es" aria-pressed="false">ES</button><button type="button" data-lang="gl" aria-pressed="false">GL</button><button type="button" data-lang="pt" aria-pressed="false">PT</button><button type="button" data-lang="en" aria-pressed="false">EN</button></div></header>
+<main id="main" class="form-page"><div class="form-container">
+<p class="eyebrow red" data-f="registration">Inscripcions</p><h1 data-f="registerTitle">Inscriu la teva banda</h1><p data-f="registerIntro">El formulari d’inscripció només estarà disponible durant el termini de cada edició.</p><div id="registration-closed" class="registration-notice"><h2 data-f="closed">Inscripcions tancades</h2><p data-f="closedIntro">Quan s’obri el termini, podràs enviar la sol·licitud des d’aquesta pàgina.</p><!-- Alternativa visible mentre les inscripcions estan tancades. -->
+<div class="registration-contact">
+  <h3 data-f="contactInvitation">T’interessa participar en el proper Certamen?</h3>
+  <p data-f="contactInvitationText">Encara no hem obert el període d’inscripcions, però pots contactar amb nosaltres si tens dubtes o vols rebre informació sobre la propera edició.</p>
+  <a class="registration-contact-button" href="contacte.html" data-f="infoTitle">Demana informació</a>
+</div></div><!-- Aquest formulari es mostra NOMÉS quan INSCRIPCIONS_OBERTES = true a formularis.js. No activeu el termini sense configurar abans el servei de recepció. --><form class="certamen-form" id="registration-form" hidden><h2 data-f="bandDetails">Dades de la banda</h2><label class="form-field"><span data-f="bandName">Nom oficial de la banda</span><input name="bandName" type="text" required ></label><label class="form-field"><span data-f="city">Localitat</span><input name="city" type="text" required ></label><label class="form-field"><span data-f="country">País</span><input name="country" type="text" required ></label><label class="form-field"><span data-f="musicians">Nombre aproximat de músics</span><input name="musicians" type="number" required min="1"></label><label class="form-field"><span data-f="conductor">Director o directora</span><input name="conductor" type="text" required ></label><h2 data-f="contactPerson">Persona de contacte</h2><label class="form-field"><span data-f="name">Nom i cognoms</span><input name="name" type="text" required ></label><label class="form-field"><span data-f="email">Correu electrònic</span><input name="email" type="email" required ></label><label class="form-field"><span data-f="phone">Telèfon amb prefix internacional</span><input name="phone" type="tel" required ></label><label class="form-field"><span data-f="notes">Observacions (opcional)</span><textarea name="notes" rows="4"></textarea></label><label class="form-check"><input type="checkbox" name="rules" required><span data-f="rulesConsent">He llegit les bases de l’edició i accepto les condicions de participació.</span></label><label class="form-check"><input type="checkbox" name="privacy" required><span data-f="privacyConsent">He llegit la política de privacitat i accepto el tractament de les dades per respondre la consulta.</span></label><p class="form-hint"><a href="politica-privacitat.html" data-f="privacyTitle">Política de privacitat</a></p><button class="btn primary" type="submit" data-f="sendRegistration">Envia la sol·licitud</button><p class="form-hint" data-f="notAccepted">La recepció de la sol·licitud no implica l’admissió de la banda.</p><p class="form-status" role="status" aria-live="polite"></p></form>
+</div></main>
+<footer class="form-footer">Certamen Internacional de Bandes de Música Vila de la Sénia</footer>
+</body>
+</html>
