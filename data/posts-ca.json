@@ -1,5 +1,19 @@
 [
   {
+    "id": "por-parlar-en-public",
+    "title": "Per què em fa tanta por parlar en públic?",
+    "date": "2026-10-04",
+    "date_text": "4 d'octubre 2026",
+    "description": "Et poses molt nerviós quan has de parlar davant dels altres? Descobreix què hi ha darrere la por a parlar en públic i com començar a afrontar-la.",
+    "url": "blog/por-parlar-en-public.html",
+    "featured": false,
+    "tags": [
+      "Ansietat",
+      "Pors",
+      "Autoestima"
+    ]
+  },
+  {
     "id": "i-si-no-puc-amb-tot",
     "title": "I si no puc amb tot? Quan les dificultats et fan dubtar de tu",
     "date": "2026-09-21",
@@ -9,7 +23,11 @@
     "image_alt": "Persona davant d'una taula amb llibres i una llibreta, reflexionant sobre les responsabilitats del nou curs",
     "url": "blog/i-si-no-puc-amb-tot.html",
     "featured": false,
-    "tags": ["ansietat", "emocions", "autoestima"]
+    "tags": [
+      "ansietat",
+      "emocions",
+      "autoestima"
+    ]
   },
   {
     "id": "sindrome-niu-buit",

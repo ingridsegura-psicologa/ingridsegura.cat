@@ -1,5 +1,19 @@
 [
   {
+    "id": "por-parlar-en-public",
+    "title": "¿Por qué me da tanto miedo hablar en público?",
+    "date": "2026-10-04",
+    "date_text": "4 de octubre de 2026",
+    "description": "¿Te pones muy nervioso cuando tienes que hablar delante de los demás? Descubre qué hay detrás del miedo a hablar en público y cómo empezar a afrontarlo.",
+    "url": "blog/por-parlar-en-public_es.html",
+    "featured": false,
+    "tags": [
+      "Ansietat",
+      "Pors",
+      "Autoestima"
+    ]
+  },
+  {
     "id": "i-si-no-puc-amb-tot",
     "title": "¿Y si no puedo con todo? Cuando las dificultades te hacen dudar de ti",
     "date": "2026-09-21",
@@ -9,7 +23,11 @@
     "image_alt": "Persona ante una mesa con libros y un cuaderno, reflexionando sobre las responsabilidades del nuevo curso",
     "url": "blog/i-si-no-puc-amb-tot_es.html",
     "featured": false,
-    "tags": ["ansietat", "emocions", "autoestima"]
+    "tags": [
+      "ansietat",
+      "emocions",
+      "autoestima"
+    ]
   },
   {
     "id": "sindrome-niu-buit",
