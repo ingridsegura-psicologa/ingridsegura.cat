@@ -1,5 +1,21 @@
 [
   {
+    "id": "gestionar-frustracio",
+    "title": "Per què ens costa tant gestionar la frustració?",
+    "date": "2026-10-12",
+    "date_text": "12 d'octubre 2026",
+    "description": "Per què ens frustrem quan les coses no surten com esperàvem? Descobreix què és la frustració, com ens afecta i com aprendre a gestionar-la.",
+    "image": "blog/img/gestionar-frustracio.webp",
+    "image_alt": "Persona reflexionant després que una situació no hagi sortit com esperava",
+    "url": "blog/gestionar-frustracio.html",
+    "featured": false,
+    "tags": [
+      "Emocions",
+      "Autocura",
+      "Benestar emocional"
+    ]
+  },
+  {
     "id": "por-parlar-en-public",
     "title": "Per què em fa tanta por parlar en públic?",
     "date": "2026-10-04",

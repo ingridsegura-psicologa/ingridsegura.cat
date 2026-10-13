@@ -1,5 +1,21 @@
 [
   {
+    "id": "gestionar-frustracio",
+    "title": "¿Por qué nos cuesta tanto gestionar la frustración?",
+    "date": "2026-10-12",
+    "date_text": "12 de octubre de 2026",
+    "description": "¿Por qué nos frustramos cuando las cosas no salen como esperábamos? Descubre qué es la frustración, cómo nos afecta y cómo aprender a gestionarla.",
+    "image": "blog/img/gestionar-frustracio.webp",
+    "image_alt": "Persona reflexionando después de que una situación no haya salido como esperaba",
+    "url": "blog/gestionar-frustracio_es.html",
+    "featured": false,
+    "tags": [
+      "Emocions",
+      "Autocura",
+      "Benestar emocional"
+    ]
+  },
+  {
     "id": "por-parlar-en-public",
     "title": "¿Por qué me da tanto miedo hablar en público?",
     "date": "2026-10-04",
