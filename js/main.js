@@ -86,20 +86,20 @@ document.addEventListener("DOMContentLoaded", function () {
 
   if (consent === "accepted") {
     loadAnalytics();
-    banner.style.display = "none";
+    if (banner) banner.style.display = "none";
   } else if (consent === "rejected") {
-    banner.style.display = "none";
+    if (banner) banner.style.display = "none";
   }
 
   acceptBtn?.addEventListener("click", function () {
     localStorage.setItem("cookie-consent", "accepted");
     loadAnalytics();
-    banner.style.display = "none";
+    if (banner) banner.style.display = "none";
   });
 
   rejectBtn?.addEventListener("click", function () {
     localStorage.setItem("cookie-consent", "rejected");
-    banner.style.display = "none";
+    if (banner) banner.style.display = "none";
   });
 
   function loadAnalytics() {
