@@ -28,51 +28,109 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": [
-    "Psychologist",
-    "LocalBusiness"
-  ],
-  "name": "Ingrid Segura Bertomeu",
-  "jobTitle": "Psicòloga",
-  "url": "https://ingridsegura.cat/zones-atencio.html",
-  "description": "Zones d’atenció psicològica d’Ingrid Segura: Altafulla, Torredembarra, La Sénia i poblacions properes.",
-  "areaServed": {
-    "@type": "Place",
-    "name": "Tarragona"
+  "@type": "ProfessionalService",
+  "@id": "https://ingridsegura.cat/#consulta",
+  "name": "Ingrid Segura Psicòloga",
+  "url": "https://ingridsegura.cat/",
+  "image": "https://ingridsegura.cat/img/ingrid6.webp",
+  "description": "Psicòloga a Altafulla, Torredembarra i La Sénia. Teràpia a domicili, caminant, online i presencial a Espaiet (La Sénia) per a ansietat, autoestima, canvis vitals i pors.",
+  "telephone": "+34669419871",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "C. de Saragossa, 12",
+    "addressLocality": "La Sénia",
+    "postalCode": "43560",
+    "addressRegion": "Tarragona",
+    "addressCountry": "ES"
   },
-  "knowsLanguage": [
-    "ca",
-    "es"
-  ],
-  "medicalSpecialty": [
-    "Psychotherapy",
-    "Anxiety",
-    "Life Transitions",
-    "Personal Development"
-  ],
-  "availableService": [
+  "location": {
+    "@type": "Place",
+    "name": "Espaiet, espai psicoterapèutic",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "C. de Saragossa, 12",
+      "addressLocality": "La Sénia",
+      "postalCode": "43560",
+      "addressRegion": "Tarragona",
+      "addressCountry": "ES"
+    },
+    "url": "https://espaiet.cat/"
+  },
+  "areaServed": [
     {
-      "@type": "Service",
-      "name": "Teràpia psicològica online",
-      "areaServed": {
-        "@type": "Place",
-        "name": "Tarragona"
+      "@type": "City",
+      "name": "Altafulla"
+    },
+    {
+      "@type": "City",
+      "name": "Torredembarra"
+    },
+    {
+      "@type": "City",
+      "name": "La Riera de Gaià"
+    },
+    {
+      "@type": "City",
+      "name": "La Pobla de Montornès"
+    },
+    {
+      "@type": "City",
+      "name": "Creixell"
+    },
+    {
+      "@type": "City",
+      "name": "El Catllar"
+    },
+    {
+      "@type": "City",
+      "name": "Tarragona"
+    },
+    {
+      "@type": "City",
+      "name": "La Sénia"
+    }
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Ingrid Segura Bertomeu",
+    "jobTitle": "Psicòloga",
+    "knowsLanguage": [
+      "ca",
+      "es"
+    ],
+    "identifier": "Col·legi Oficial de Psicologia de Catalunya n.36181"
+  },
+  "sameAs": [
+    "https://www.instagram.com/ingridsegura.psicologa/",
+    "https://www.doctoralia.es/ingrid-segura-bertomeu"
+  ],
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Teràpia psicològica a domicili"
       }
     },
     {
-      "@type": "Service",
-      "name": "Teràpia psicològica a domicili",
-      "areaServed": {
-        "@type": "Place",
-        "name": "Tarragona"
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Acompanyament terapèutic caminant"
       }
     },
     {
-      "@type": "Service",
-      "name": "Acompanyament terapèutic caminant",
-      "areaServed": {
-        "@type": "Place",
-        "name": "Tarragona"
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Teràpia psicològica online"
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Teràpia psicològica presencial a La Sénia"
       }
     }
   ]
@@ -83,25 +141,27 @@
 <body>
 
 <header class="site-header">
-  <div class="header-inner">
-    <a href="index.html" class="brand">Ingrid Segura</a>
-    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="main-nav" aria-label="Obrir menú">
-      <span></span><span></span><span></span>
-    </button>
-    <nav class="main-nav" aria-label="Navegació principal">
-      <a href="/">Inici</a>
-      <a href="sobre-mi.html">Sobre mi</a>
-      <a href="arees-especialitzacio.html">Àrees d'especialització</a>
-      <a href="serveis.html">Serveis</a>
-      <a href="blog.html">Blog</a>
-      <a href="contacte.html">Contacte</a>
-      <div class="lang-switch" aria-label="Selector d'idioma">
-        <a href="zones-atencio.html" class='active'>CAT</a>
-        <a href="zones-atencio_es.html">ES</a>
-      </div>
-    </nav>
-  </div>
-</header>
+    <div class="header-inner">
+      <a href="/" class="brand">Ingrid Segura</a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="main-nav" aria-label="Obrir menú">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <nav class="main-nav" id="main-nav" aria-label="Navegació principal">
+        <a href="/">Inici</a>
+        <a href="sobre-mi.html">Sobre mi</a>
+        <a href="arees-especialitzacio.html">Àrees d'especialització</a>
+        <a href="serveis.html">Serveis</a>
+        <a href="blog.html">Blog</a>
+        <a href="contacte.html">Contacte</a>
+        <div class="lang-switch" aria-label="Selector d'idioma">
+          <a href="zones-atencio.html" class="active">CAT</a>
+          <a href="zones-atencio_es.html">ES</a>
+        </div>
+      </nav>
+    </div>
+  </header>
 
 <main class="inner-page">
   <section class="post-header">
@@ -154,13 +214,20 @@
 </main>
 
 <footer class="site-footer">
-  <div class="footer-bottom">
-    © Ingrid Segura 2026 · Psicòloga · Col·legi Oficial de Psicologia n.36181 <br>
-    <div class="footer-legal">
-      <a href="avis-legal.html">Avís legal i privacitat</a> | <a href="faqs.html">Preguntes freqüents</a>
+    <div class="footer-bottom">
+      © Ingrid Segura 2026 · Psicòloga · Col·legi Oficial de Psicologia n.36181<br>
+      <div class="footer-legal">
+        <a href="avis-legal.html">Avís legal i privacitat</a> | <a href="faqs.html">Preguntes freqüents</a>
+      </div>
+    </div>
+  </footer>
+
+  <div id="cookie-banner" class="cookie-banner">
+    <p>Aquest lloc web utilitza cookies d’anàlisi per millorar l’experiència.</p>
+    <div class="cookie-buttons">
+      <button id="accept-cookies" class="button-line">Acceptar</button>
+      <button id="reject-cookies" class="button-line">Rebutjar</button>
     </div>
   </div>
-</footer>
-
 </body>
 </html>

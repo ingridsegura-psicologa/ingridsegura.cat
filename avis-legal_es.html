@@ -34,57 +34,113 @@
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@type": "Psychologist",
- "name": "Ingrid Segura Bertomeu",
- "jobTitle": "Psicòloga",
- "url": "https://ingridsegura.cat/",
- "areaServed": [
-	 { "@type": "Place", "name": "Altafulla" },
-	 { "@type": "Place", "name": "Torredembarra" },
-	 { "@type": "Place", "name": "La Riera del Gaià" },
-     { "@type": "Place", "name": "La Pobla de Montornès" },
-	 { "@type": "Place", "name": "La Sénia" }
- ],
- "description": "Psicòloga que ofereix acompanyament psicològic per a ansietat, processos vitals, autoestima i creixement personal.",
- "knowsLanguage": ["ca","es"],
- "medicalSpecialty": [
-	  "Psychotherapy",
-	  "Anxiety",
-	  "Life Transitions",
-	  "Personal Development",
-	  "Family Counseling"
- ],
- "availableService": [
-   {
-     "@type": "Service",
-     "name": "Teràpia psicològica online",
-     "availableChannel": {
-       "@type": "ServiceChannel",
-       "serviceLocation": {
-         "@type": "VirtualLocation"
-       }
-     }
-   },
-   {
-     "@type": "Service",
-     "name": "Teràpia psicològica a domicili",
-     "availableChannel": {
-       "@type": "ServiceChannel",
-       "serviceLocation": {
-         "@type": "Place"
-       }
-     }
-   },
-   {
-     "@type": "Service",
-     "name": "Acompanyament terapèutic caminant",
-     "areaServed": {
-       "@type": "Place",
-       "name": "Altafulla"
-     }
-   }
- ]
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "@id": "https://ingridsegura.cat/#consulta",
+  "name": "Ingrid Segura Psicóloga",
+  "url": "https://ingridsegura.cat/index_es.html",
+  "image": "https://ingridsegura.cat/img/ingrid6.webp",
+  "description": "Psicóloga en Altafulla, Torredembarra y La Sénia. Terapia a domicilio, caminando, online y presencial en Espaiet (La Sénia) para ansiedad, autoestima, cambios vitales y miedos.",
+  "telephone": "+34669419871",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "C. de Saragossa, 12",
+    "addressLocality": "La Sénia",
+    "postalCode": "43560",
+    "addressRegion": "Tarragona",
+    "addressCountry": "ES"
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Espaiet, espai psicoterapèutic",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "C. de Saragossa, 12",
+      "addressLocality": "La Sénia",
+      "postalCode": "43560",
+      "addressRegion": "Tarragona",
+      "addressCountry": "ES"
+    },
+    "url": "https://espaiet.cat/"
+  },
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Altafulla"
+    },
+    {
+      "@type": "City",
+      "name": "Torredembarra"
+    },
+    {
+      "@type": "City",
+      "name": "La Riera de Gaià"
+    },
+    {
+      "@type": "City",
+      "name": "La Pobla de Montornès"
+    },
+    {
+      "@type": "City",
+      "name": "Creixell"
+    },
+    {
+      "@type": "City",
+      "name": "El Catllar"
+    },
+    {
+      "@type": "City",
+      "name": "Tarragona"
+    },
+    {
+      "@type": "City",
+      "name": "La Sénia"
+    }
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Ingrid Segura Bertomeu",
+    "jobTitle": "Psicóloga",
+    "knowsLanguage": [
+      "ca",
+      "es"
+    ],
+    "identifier": "Col·legi Oficial de Psicologia de Catalunya n.36181"
+  },
+  "sameAs": [
+    "https://www.instagram.com/ingridsegura.psicologa/",
+    "https://www.doctoralia.es/ingrid-segura-bertomeu"
+  ],
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Terapia psicológica a domicilio"
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Acompañamiento terapéutico caminando"
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Terapia psicológica online"
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Terapia psicológica presencial en La Sénia"
+      }
+    }
+  ]
 }
 </script>
 <script src="js/main.js"></script>
@@ -95,25 +151,24 @@
 
   <header class="site-header">
     <div class="header-inner">
-      <a href="index.html" class="brand">Ingrid Segura</a>
+      <a href="index_es.html" class="brand">Ingrid Segura</a>
       <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="main-nav" aria-label="Abrir menú">
         <span></span>
         <span></span>
         <span></span>
       </button>
-		<nav class="main-nav">
-		  <a href="index_es.html">Inicio</a>
-		  <a href="sobre-mi_es.html">Sobre mí</a>
-		  <a href="arees-especialitzacio_es.html">Áreas de especialización</a>
-		  <a href="serveis_es.html" class="active">Servicios</a>
-          <a href="blog_es.html">Blog</a>
-		  <a href="contacte_es.html">Contacto</a>
-
-		  <div class="lang-switch">
-			  <a href="avis-legal.html">CAT</a>
-			  <a href="avis-legal_es.html">ES</a>
-		  </div>
-		</nav>
+      <nav class="main-nav" id="main-nav" aria-label="Navegación principal">
+        <a href="index_es.html">Inicio</a>
+        <a href="sobre-mi_es.html">Sobre mí</a>
+        <a href="arees-especialitzacio_es.html">Áreas de especialización</a>
+        <a href="serveis_es.html">Servicios</a>
+        <a href="blog_es.html">Blog</a>
+        <a href="contacte_es.html">Contacto</a>
+        <div class="lang-switch" aria-label="Selector de idioma">
+          <a href="avis-legal.html">CAT</a>
+          <a href="avis-legal_es.html" class="active">ES</a>
+        </div>
+      </nav>
     </div>
   </header>
 
@@ -186,22 +241,19 @@
   </main>
 
   <footer class="site-footer">
-	  <div class="footer-bottom">
-		© Ingrid Segura 2026 · Psicóloga · Col·legi Oficial de Psicologia n.36181 <br>
-		<div class="footer-legal">
-		  <a href="avis-legal_es.html">Aviso legal y privacidad</a> | <a href="faqs_es.html">Preguntas frecuentes</a>
-		  </div>
-	</div>
+    <div class="footer-bottom">
+      © Ingrid Segura 2026 · Psicóloga · Colegio Oficial de Psicología n.º 36181<br>
+      <div class="footer-legal">
+        <a href="avis-legal_es.html">Aviso legal y privacidad</a> | <a href="faqs_es.html">Preguntas frecuentes</a>
+      </div>
+    </div>
   </footer>
 	<div id="cookie-banner" class="cookie-banner">
-	  <p>
-		Este sitio utiliza cookies de análisi para mejorar la experiencia.
-	  </p>
-
-	  <div class="cookie-buttons">
-		<button id="accept-cookies" class="button-line">Aceptar</button>
-		<button id="reject-cookies" class="button-line">Rechazar</button>
-	  </div>
-	</div>
+    <p>Este sitio web utiliza cookies de análisis para mejorar la experiencia.</p>
+    <div class="cookie-buttons">
+      <button id="accept-cookies" class="button-line">Aceptar</button>
+      <button id="reject-cookies" class="button-line">Rechazar</button>
+    </div>
+  </div>
 </body>
 </html>

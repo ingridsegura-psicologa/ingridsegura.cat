@@ -36,25 +36,44 @@
   "name": "Acompañamiento psicológico para la ansiedad y el estrés",
   "description": "Acompañamiento psicológico para comprender y gestionar la ansiedad, el estrés, las preocupaciones constantes y la dificultad para desconectar.",
   "provider": {
-    "@type": ["Psychologist","LocalBusiness"],
-    "name": "Ingrid Segura Bertomeu",
-    "url": "https://ingridsegura.cat/"
+    "@type": "ProfessionalService",
+    "@id": "https://ingridsegura.cat/#consulta",
+    "name": "Ingrid Segura Psicóloga"
   },
   "areaServed": [
-    { "@type": "Place", "name": "Altafulla" },
-    { "@type": "Place", "name": "Torredembarra" },
-    { "@type": "Place", "name": "La Riera del Gaià" },
-    { "@type": "Place", "name": "La Pobla de Montornès" },
-    { "@type": "Place", "name": "La Sénia" }
+    {
+      "@type": "Place",
+      "name": "Altafulla"
+    },
+    {
+      "@type": "Place",
+      "name": "Torredembarra"
+    },
+    {
+      "@type": "Place",
+      "name": "La Riera del Gaià"
+    },
+    {
+      "@type": "Place",
+      "name": "La Pobla de Montornès"
+    },
+    {
+      "@type": "Place",
+      "name": "La Sénia"
+    }
   ],
   "availableChannel": [
     {
       "@type": "ServiceChannel",
-      "serviceLocation": { "@type": "VirtualLocation" }
+      "serviceLocation": {
+        "@type": "VirtualLocation"
+      }
     },
     {
       "@type": "ServiceChannel",
-      "serviceLocation": { "@type": "Place" }
+      "serviceLocation": {
+        "@type": "Place"
+      }
     }
   ]
 }
@@ -66,25 +85,27 @@
 <body>
 
 <header class="site-header">
-  <div class="header-inner">
-    <a href="/index_es.html" class="brand">Ingrid Segura</a>
-    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="main-nav" aria-label="Abrir menú">
-      <span></span><span></span><span></span>
-    </button>
-    <nav class="main-nav" id="main-nav" aria-label="Navegación principal">
-      <a href="index_es.html">Inicio</a>
-      <a href="sobre-mi_es.html">Sobre mí</a>
-      <a href="arees-especialitzacio_es.html" class="active">Áreas de especialización</a>
-      <a href="serveis_es.html">Servicios</a>
-      <a href="blog_es.html">Blog</a>
-      <a href="contacte_es.html">Contacto</a>
-      <div class="lang-switch" aria-label="Selector de idioma">
-        <a href="area-ansietat.html">CAT</a>
-        <a href="area-ansietat_es.html" class="active">ES</a>
-      </div>
-    </nav>
-  </div>
-</header>
+    <div class="header-inner">
+      <a href="index_es.html" class="brand">Ingrid Segura</a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="main-nav" aria-label="Abrir menú">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <nav class="main-nav" id="main-nav" aria-label="Navegación principal">
+        <a href="index_es.html">Inicio</a>
+        <a href="sobre-mi_es.html">Sobre mí</a>
+        <a href="arees-especialitzacio_es.html" class="active">Áreas de especialización</a>
+        <a href="serveis_es.html">Servicios</a>
+        <a href="blog_es.html">Blog</a>
+        <a href="contacte_es.html">Contacto</a>
+        <div class="lang-switch" aria-label="Selector de idioma">
+          <a href="area-ansietat.html">CAT</a>
+          <a href="area-ansietat_es.html" class="active">ES</a>
+        </div>
+      </nav>
+    </div>
+  </header>
 
 <main class="inner-page">
 
@@ -156,7 +177,34 @@
           <p>Reflexiones y recursos relacionados con la ansiedad que pueden ayudarte a comprender mejor qué te ocurre.</p>
 
           <div id="area-ansietat-articles" data-area-tag="ansietat">
-            <p>Cargando artículos...</p>
+            <div class="blog-list-inner" style="padding:0;margin-top:24px">
+            <!-- LLISTA-POSTS:INICI tag=ansietat max=4 -->
+<article class="blog-card">
+  <p class="blog-date">4 de octubre de 2026</p>
+  <h3>¿Por qué me da tanto miedo hablar en público?</h3>
+  <p>¿Te pones muy nervioso cuando tienes que hablar delante de los demás? Descubre qué hay detrás del miedo a hablar en público y cómo empezar a afrontarlo.</p>
+  <a href="blog/por-parlar-en-public_es.html">Leer más →</a>
+</article>
+<article class="blog-card">
+  <p class="blog-date">21 de septiembre de 2026</p>
+  <h3>¿Y si no puedo con todo? Cuando las dificultades te hacen dudar de ti</h3>
+  <p>Cuando las responsabilidades se acumulan, puedes sentir que no podrás con todo. Descubre cómo gestionar el miedo, la autoexigencia y la sensación de desbordamiento.</p>
+  <a href="blog/i-si-no-puc-amb-tot_es.html">Leer más →</a>
+</article>
+<article class="blog-card">
+  <p class="blog-date">14 de julio de 2026</p>
+  <h3>¿Por qué me cuesta disfrutar de las cosas buenas?</h3>
+  <p>¿Te cuesta disfrutar cuando las cosas van bien? Descubre por qué la mente sigue en alerta, qué hay detrás del miedo a que lo bueno se acabe y cómo empezar a vivir más presente.</p>
+  <a href="blog/gaudir-coses-bones_es.html">Leer más →</a>
+</article>
+<article class="blog-card">
+  <p class="blog-date">25 de mayo de 2026</p>
+  <h3>Cómo gestionar la presión antes de una prueba importante</h3>
+  <p>Cuando se acerca una prueba importante, la presión y los nervios pueden acabar bloqueándote. Descubre cómo prepararte sin tanta exigencia.</p>
+  <a href="blog/pressio-examens_es.html">Leer más →</a>
+</article>
+<!-- LLISTA-POSTS:FI -->
+            </div>
           </div>
 
           <p style="margin-top:24px;">
@@ -171,93 +219,22 @@
 </main>
 
 <footer class="site-footer">
-  <div class="footer-bottom">
-    © Ingrid Segura 2026 · Psicóloga · Colegio Oficial de Psicología n.º 36181 <br>
-    <div class="footer-legal">
-      <a href="avis-legal_es.html">Aviso legal y privacidad</a> | <a href="faqs_es.html">Preguntas frecuentes</a>
+    <div class="footer-bottom">
+      © Ingrid Segura 2026 · Psicóloga · Colegio Oficial de Psicología n.º 36181<br>
+      <div class="footer-legal">
+        <a href="avis-legal_es.html">Aviso legal y privacidad</a> | <a href="faqs_es.html">Preguntas frecuentes</a>
+      </div>
     </div>
-  </div>
-</footer>
+  </footer>
 
 <div id="cookie-banner" class="cookie-banner">
-  <p>Este sitio web utiliza cookies de análisis para mejorar la experiencia.</p>
-  <div class="cookie-buttons">
-    <button id="accept-cookies" class="button-line">Aceptar</button>
-    <button id="reject-cookies" class="button-line">Rechazar</button>
+    <p>Este sitio web utiliza cookies de análisis para mejorar la experiencia.</p>
+    <div class="cookie-buttons">
+      <button id="accept-cookies" class="button-line">Aceptar</button>
+      <button id="reject-cookies" class="button-line">Rechazar</button>
+    </div>
   </div>
-</div>
 
-<script>
-(function () {
-  const container = document.getElementById('area-ansietat-articles');
-  if (!container) return;
-
-  const tag = container.dataset.areaTag || 'ansietat';
-
-  async function loadPosts() {
-    let posts = null;
-
-    try {
-      const response = await fetch('./data/posts-es.json', { cache: 'no-cache' });
-      if (response.ok) posts = await response.json();
-    } catch (e) {}
-
-    if (!Array.isArray(posts)) {
-      container.innerHTML = '<p>No s\'han pogut carregar els articles ara mateix.</p>';
-      return;
-    }
-
-    const filtered = posts
-      .filter(post => Array.isArray(post.tags) && post.tags.includes(tag))
-      .sort((a, b) => (b.date || '').localeCompare(a.date || ''))
-      .slice(0, 4);
-
-    if (!filtered.length) {
-      container.innerHTML = '<p>Todavía no hay artículos publicados con esta etiqueta.</p>';
-      return;
-    }
-
-    const grid = document.createElement('div');
-    grid.className = 'blog-list-inner';
-    grid.style.padding = '0';
-    grid.style.marginTop = '24px';
-
-    filtered.forEach(post => {
-      const card = document.createElement('article');
-      card.className = 'blog-card';
-
-      if (post.date_text) {
-        const date = document.createElement('p');
-        date.className = 'blog-date';
-        date.textContent = post.date_text;
-        card.appendChild(date);
-      }
-
-      const title = document.createElement('h3');
-      title.textContent = post.title || '';
-      card.appendChild(title);
-
-      if (post.description) {
-        const desc = document.createElement('p');
-        desc.textContent = post.description;
-        card.appendChild(desc);
-      }
-
-      const link = document.createElement('a');
-      link.href = post.url || 'blog_es.html';
-      link.textContent = 'Leer artículo';
-      card.appendChild(link);
-
-      grid.appendChild(card);
-    });
-
-    container.innerHTML = '';
-    container.appendChild(grid);
-  }
-
-  loadPosts();
-})();
-</script>
 
 </body>
 </html>

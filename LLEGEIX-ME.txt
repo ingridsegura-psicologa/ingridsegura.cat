@@ -1,0 +1,57 @@
+CANVIS A LA WEB ingridsegura.cat
+================================
+
+Copia aquestes carpetes i fitxers damunt de la web (substitueixen els actuals).
+
+A MÉS, ESBORRA aquests fitxers:
+  - img/foto.jpg
+  - img/foto2.jpg
+  - img/ingrid2.webp
+  - img/ingrid4.webp
+  - img/logo2.jpg
+  - img/sindrome-niu-buit.webp
+  - blog/img/instagram-refugi.webp  (ara es diu instagram-validacio.webp)
+
+QUÈ S'HA CANVIAT
+- Menú, peu i bàner de cookies iguals a totes les pàgines, cadascun en el seu idioma
+  (moltes pàgines en castellà tenien el menú o el peu en català o enllaçaven a pàgines en català).
+- Enllaços trencats: contacte-es.html (4 posts), blog/asertividad.html,
+  zona-atencio_es.html, enllaç a Espaiet mal tancat, etc.
+- Pàgines de gràcies: noindex, textos propis i fora del sitemap.
+- Tret Google Analytics carregat sense consentiment (6 pàgines).
+- nivell-ansietat: canonical, hreflang, og i dades estructurades corregides.
+- Eliminades les adreces amb www (tot apunta a https://ingridsegura.cat).
+- js/main.js: ja no falla si una pàgina no té bàner de cookies.
+- Imatges reduïdes (27 MB -> 2,5 MB), mateix nom de fitxer.
+- serveis: imatges amb càrrega diferida (loading="lazy").
+- FAQ: marcat FAQPage per a Google.
+- Blog: títol i descripció nous.
+- contacte.html: faltava </main>.
+- Generador del blog: el menú, el peu i les cookies dels posts en castellà
+  ara surten en castellà. generar-posts.jar recompilat (Java 11 o superior).
+
+ACTUALITZACIÓ (2a versió)
+- estils/estils.css: el bloc "Sobre mi" de la portada ara té el títol i el text
+  junts i centrats en pantalles grans (abans el títol quedava a l'extrem esquerre).
+- Pàgines d'Altafulla i Torredembarra (CA i ES) reescrites: on es fan les sessions,
+  teràpia caminant, com començar, articles relacionats i dades per a Google.
+Aquest ZIP inclou també tots els canvis de la primera versió.
+
+ACTUALITZACIÓ (3a versió)
+- El llistat del blog i els articles de les pàgines d'àrea ara són HTML normal
+  (abans només apareixien amb JavaScript). El generador els actualitza sol
+  cada cop que l'executes: no toquis els comentaris <!-- LLISTA-POSTS -->.
+- Etiquetes del blog unificades en minúscula; nova etiqueta "fobies".
+  "Per què em fa tanta por parlar en públic" ara surt a Pors i fòbies.
+- "Què és l'autoestima" afegit al llistat del blog (no hi sortia).
+- Pàgina de La Sénia amb l'adreça d'Espaiet (C. de Saragossa, 12) i mapa.
+- Dades estructurades corregides a tota la web (adreça, telèfon, serveis).
+- sitemap.xml amb data d'avui a les pàgines canviades.
+Aquest ZIP inclou tots els canvis anteriors.
+
+ACTUALITZACIÓ (4a versió)
+- Tots els posts antics passats a JSON (generador-blog/posts/) i el blog
+  regenerat. El text dels posts és el mateix; s'ha comprovat post per post.
+- Els posts antics ara tenen og:url, imatge per compartir i dates uniformes.
+- generar-posts.jar actualitzat. Mira el README del generador.
+Aquest ZIP inclou tots els canvis anteriors.

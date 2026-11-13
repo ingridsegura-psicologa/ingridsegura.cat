@@ -1,266 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-<url><loc>https://ingridsegura.cat/sobre-mi.html</loc></url>
-<url><loc>https://ingridsegura.cat/contacte.html</loc></url>
-<url><loc>https://ingridsegura.cat/faqs.html</loc></url>
-<url><loc>https://ingridsegura.cat/avis-legal.html</loc></url>
-<url><loc>https://ingridsegura.cat/gracies.html</loc></url>
-
-<url><loc>https://ingridsegura.cat/sobre-mi_es.html</loc></url>
-<url><loc>https://ingridsegura.cat/contacte_es.html</loc></url>
-<url><loc>https://ingridsegura.cat/faqs_es.html</loc></url>
-<url><loc>https://ingridsegura.cat/avis-legal_es.html</loc></url>
-<url><loc>https://ingridsegura.cat/gracies_es.html</loc></url>
-
-<url><loc>https://ingridsegura.cat/</loc><lastmod>2026-09-08</lastmod></url>
-<url><loc>https://ingridsegura.cat/index_es.html</loc><lastmod>2026-09-08</lastmod></url>
-
-<url><loc>https://ingridsegura.cat/serveis.html</loc><lastmod>2026-05-31</lastmod></url>
-<url><loc>https://ingridsegura.cat/serveis_es.html</loc><lastmod>2026-05-31</lastmod></url>
-
-
-<url><loc>https://ingridsegura.cat/zona-atencio-altafulla.html</loc><lastmod>2026-09-08</lastmod></url>
-<url><loc>https://ingridsegura.cat/zona-atencio-altafulla_es.html</loc><lastmod>2026-09-08</lastmod></url>
-
-<url><loc>https://ingridsegura.cat/zona-atencio-lasenia.html</loc><lastmod>2026-09-08</lastmod></url>
-<url><loc>https://ingridsegura.cat/zona-atencio-lasenia_es.html</loc><lastmod>2026-09-08</lastmod></url>
-
-<url><loc>https://ingridsegura.cat/zona-atencio-torredembarra.html</loc><lastmod>2026-09-08</lastmod></url>
-<url><loc>https://ingridsegura.cat/zona-atencio-torredembarra_es.html</loc><lastmod>2026-09-08</lastmod></url>
-
-<url><loc>https://ingridsegura.cat/zones-atencio.html</loc><lastmod>2026-09-08</lastmod></url>
-<url><loc>https://ingridsegura.cat/zones-atencio_es.html</loc><lastmod>2026-09-08</lastmod></url>
-
-<url><loc>https://ingridsegura.cat/arees-especialitzacio.html</loc><lastmod>2026-07-20</lastmod></url>
-<url><loc>https://ingridsegura.cat/arees-especialitzacio_es.html</loc><lastmod>2026-07-20</lastmod></url>
-
-<url>
-	<loc>https://ingridsegura.cat/blog.html</loc>
-	<lastmod>2026-10-13</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/blog_es.html</loc>
-	<lastmod>2026-10-13</lastmod>
-</url>
-
-<url>
-	<loc>https://ingridsegura.cat/area-ansietat.html</loc>
-	<lastmod>2026-08-20</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/area-ansietat_es.html</loc>
-	<lastmod>2026-08-20</lastmod>
-</url>
-
-<url>
-	<loc>https://ingridsegura.cat/area-autoestima.html</loc>
-	<lastmod>2026-08-20</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/area-autoestima_es.html</loc>
-	<lastmod>2026-08-20</lastmod>
-</url>
-
-<url>
-	<loc>https://ingridsegura.cat/area-processos-vitals.html</loc>
-	<lastmod>2026-08-20</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/area-processos-vitals_es.html</loc>
-	<lastmod>2026-08-20</lastmod>
-</url>
-
-
-<url>
-	<loc>https://ingridsegura.cat/area-pors-fobies.html</loc>
-	<lastmod>2026-08-20</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/area-pors-fobies_es.html</loc>
-	<lastmod>2026-08-20</lastmod>
-</url>
-
-
-<url>
-	<loc>https://ingridsegura.cat/blog/gestionar-ruptura-parella.html</loc>
-	<lastmod>2026-07-20</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/blog/gestionar-ruptura-parella_es.html</loc>
-	<lastmod>2026-07-20</lastmod>
-</url>
-
-<url>
-	<loc>https://ingridsegura.cat/blog/gaudir-coses-bones.html</loc>
-	<lastmod>2026-07-14</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/blog/gaudir-coses-bones_es.html</loc>
-	<lastmod>2026-07-14</lastmod>
-</url>
-
-<url>
-	<loc>https://ingridsegura.cat/blog/demanar-ajuda.html</loc>
-	<lastmod>2026-07-07</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/blog/demanar-ajuda_es.html</loc>
-	<lastmod>2026-07-07</lastmod>
-</url>
-
-
-<url>
-	<loc>https://ingridsegura.cat/blog/assertivitat.html</loc>
-	<lastmod>2026-07-02</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/blog/assertivitat_es.html</loc>
-	<lastmod>2026-07-02</lastmod>
-</url>
-
-
-<url>
-	<loc>https://ingridsegura.cat/blog/no-tinc-clar-que-vull.html</loc>
-	<lastmod>2026-06-22</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/blog/no-tinc-clar-que-vull_es.html</loc>
-	<lastmod>2026-06-22</lastmod>
-</url>
-
-<url>
-	<loc>https://ingridsegura.cat/blog/quan-anar-terapia.html</loc>
-	<lastmod>2026-06-07</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/blog/quan-anar-terapia_es.html</loc>
-	<lastmod>2026-06-07</lastmod>
-</url>
-
-<url>
-	<loc>https://ingridsegura.cat/blog/no-surt-com-esperaves.html</loc>
-	<lastmod>2026-06-07</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/blog/no-surt-com-esperaves_es.html</loc>
-	<lastmod>2026-06-07</lastmod>
-</url>
-
-<url>
-	<loc>https://ingridsegura.cat/blog/comparacio-constant.html</loc>
-	<lastmod>2026-05-31</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/blog/comparacio-constant_es.html</loc>
-	<lastmod>2026-05-31</lastmod>
-</url>
-
-
-<url>
-	<loc>https://ingridsegura.cat/blog/pressio-examens.html</loc>
-	<lastmod>2026-05-25</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/blog/pressio-examens_es.html</loc>
-	<lastmod>2026-05-25</lastmod>
-</url>
-
-<url>
-	<loc>https://ingridsegura.cat/blog/instagram-validacio.html</loc>
-	<lastmod>2026-05-13</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/blog/instagram-validacio_es.html</loc>
-	<lastmod>2026-05-13</lastmod>
-</url>
-
-
-<url>
-	<loc>https://ingridsegura.cat/blog/tot-pesa.html</loc>
-	<lastmod>2026-05-13</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/blog/tot-pesa_es.html</loc>
-	<lastmod>2026-05-13</lastmod>
-</url>
-
-
-<url>
-	<loc>https://ingridsegura.cat/blog/tot-o-res.html</loc>
-	<lastmod>2026-05-05</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/blog/tot-o-res_es.html</loc>
-	<lastmod>2026-05-05</lastmod>
-</url>
-
-<url>
-	<loc>https://ingridsegura.cat/blog/reduir-tensio.html</loc>
-	<lastmod>2026-04-26</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/blog/reduir-tensio_es.html</loc>
-	<lastmod>2026-04-26</lastmod>
-</url>
-
-<url>
-	<loc>https://ingridsegura.cat/blog/mantenir-canvi.html</loc>
-	<lastmod>2026-04-19</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/blog/mantenir-canvi_es.html</loc>
-	<lastmod>2026-04-19</lastmod>
-</url>
-
-
-<url>
-	<loc>https://ingridsegura.cat/blog/por-canvi.html</loc>
-	<lastmod>2026-04-08</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/blog/por-canvi_es.html</loc>
-	<lastmod>2026-04-08</lastmod>
-</url>
-
-
-<url>
-	<loc>https://ingridsegura.cat/blog/nivell-ansietat.html</loc>
-	<lastmod>2026-04-04</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/blog/nivell-ansietat_es.html</loc>
-	<lastmod>2026-04-04</lastmod>
-</url>
-
-
-<url>
-	<loc>https://ingridsegura.cat/blog/dia-corrents.html</loc>
-	<lastmod>2026-03-31</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/blog/terapia-online.html</loc>
-	<lastmod>2026-03-30</lastmod>
-</url>
-
-<url>
-	<loc>https://ingridsegura.cat/blog/dia-corrents_es.html</loc>
-	<lastmod>2026-03-31</lastmod>
-</url>
-<url>
-	<loc>https://ingridsegura.cat/blog/terapia-online_es.html</loc>
-	<lastmod>2026-03-30</lastmod>
-</url>
-
-
-<url><loc>https://ingridsegura.cat/blog/relacio-toxica.html</loc><lastmod>2026-09-03</lastmod></url>
-<url><loc>https://ingridsegura.cat/blog/relacio-toxica_es.html</loc><lastmod>2026-09-03</lastmod></url>
-<url><loc>https://ingridsegura.cat/blog/sindrome-niu-buit.html</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://ingridsegura.cat/blog/sindrome-niu-buit_es.html</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://ingridsegura.cat/blog/i-si-no-puc-amb-tot.html</loc><lastmod>2026-09-21</lastmod></url>
-<url><loc>https://ingridsegura.cat/blog/i-si-no-puc-amb-tot_es.html</loc><lastmod>2026-09-21</lastmod></url>
-<url><loc>https://ingridsegura.cat/blog/por-parlar-en-public.html</loc><lastmod>2026-10-04</lastmod></url>
-<url><loc>https://ingridsegura.cat/blog/por-parlar-en-public_es.html</loc><lastmod>2026-10-04</lastmod></url>
-<url><loc>https://ingridsegura.cat/blog/gestionar-frustracio.html</loc><lastmod>2026-10-13</lastmod></url>
-<url><loc>https://ingridsegura.cat/blog/gestionar-frustracio_es.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/sobre-mi.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/contacte.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/faqs.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/avis-legal.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/sobre-mi_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/contacte_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/faqs_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/avis-legal_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/index_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/serveis.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/serveis_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/zona-atencio-altafulla.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/zona-atencio-altafulla_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/zona-atencio-lasenia.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/zona-atencio-lasenia_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/zona-atencio-torredembarra.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/zona-atencio-torredembarra_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/zones-atencio.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/zones-atencio_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/arees-especialitzacio.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/arees-especialitzacio_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/area-ansietat.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/area-ansietat_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/area-autoestima.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/area-autoestima_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/area-processos-vitals.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/area-processos-vitals_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/area-pors-fobies.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/area-pors-fobies_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/gestionar-ruptura-parella.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/gestionar-ruptura-parella_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/gaudir-coses-bones.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/gaudir-coses-bones_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/demanar-ajuda.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/demanar-ajuda_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/assertivitat.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/assertivitat_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/no-tinc-clar-que-vull.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/no-tinc-clar-que-vull_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/quan-anar-terapia.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/quan-anar-terapia_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/no-surt-com-esperaves.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/no-surt-com-esperaves_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/comparacio-constant.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/comparacio-constant_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/pressio-examens.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/pressio-examens_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/instagram-validacio.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/instagram-validacio_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/tot-pesa.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/tot-pesa_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/tot-o-res.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/tot-o-res_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/reduir-tensio.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/reduir-tensio_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/mantenir-canvi.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/mantenir-canvi_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/por-canvi.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/por-canvi_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/nivell-ansietat.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/nivell-ansietat_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/dia-corrents.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/terapia-online.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/dia-corrents_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/terapia-online_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/relacio-toxica.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/relacio-toxica_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/sindrome-niu-buit.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/sindrome-niu-buit_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/i-si-no-puc-amb-tot.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/i-si-no-puc-amb-tot_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/por-parlar-en-public.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/por-parlar-en-public_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/gestionar-frustracio.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/gestionar-frustracio_es.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/que-es-autoestima.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://ingridsegura.cat/blog/que-es-autoestima_es.html</loc><lastmod>2026-11-13</lastmod></url>
 </urlset>
