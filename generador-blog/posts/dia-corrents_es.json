@@ -1,0 +1,122 @@
+{
+  "id": "dia-corrents",
+  "lang": "es",
+  "title": "¿Vas todo el día corriendo pero sientes que no llegas a todo?",
+  "date": "2026-03-31",
+  "description": "¿Siempre vas con prisa y te cuesta parar? Descubre qué hay detrás de este ritmo constante.",
+  "featured": false,
+  "tags": [
+    "ansietat",
+    "autocura"
+  ],
+  "seoTitle": "¿Vas todo el día corriendo pero sientes que no llegas a todo? | Ingrid Segura",
+  "seoDescription": "¿Sientes que siempre vas con prisa y no llegas a todo? Descubre por qué pasa y cómo empezar a bajar el ritmo.",
+  "ogTitle": "Ingrid Segura | Psicòloga",
+  "ogDescription": "Psicòloga a Altafulla i La Sénia. Teràpia psicològica i acompanyament personal.",
+  "content": [
+    {
+      "type": "p",
+      "html": "<strong>Vas todo el día corriendo, pero tienes la sensación de que nunca llegas a todo.</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Siempre hay algo pendiente. Siempre vas con prisa. Y cuando paras… te sientes mal."
+    },
+    {
+      "type": "p",
+      "text": "Como si estuvieras perdiendo el tiempo. Como si tuvieras que hacer más."
+    },
+    {
+      "type": "p",
+      "text": "Si te sientes identificado/a, no eres la única persona a la que le pasa."
+    },
+    {
+      "type": "h2",
+      "text": "No es falta de organización"
+    },
+    {
+      "type": "p",
+      "text": "Muchas veces pensamos que el problema es que no nos organizamos bien. Que si hiciéramos mejor las cosas, llegaríamos a todo."
+    },
+    {
+      "type": "p",
+      "text": "Pero muchas veces no tiene que ver con eso."
+    },
+    {
+      "type": "p",
+      "text": "Lo que hay detrás es un sistema nervioso en estado de alerta constante. El cuerpo y la mente están acostumbrados a ir rápido, a no parar, a estar pendientes de todo. La investigación en psicología muestra que cuando el estrés se mantiene en el tiempo, el cuerpo se queda en un estado de alerta constante, y termina afectando al bienestar emocional y físico."
+    },
+    {
+      "type": "p",
+      "text": "Y cuando intentas descansar… aparece la incomodidad."
+    },
+    {
+      "type": "h2",
+      "text": "Vivir así agota"
+    },
+    {
+      "type": "p",
+      "text": "Este ritmo constante puede acabar generando:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Cansancio físico y mental",
+        "Irritabilidad",
+        "Ansiedad",
+        "Desesperanza",
+        "Sensación de no llegar nunca a todo"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Y con el tiempo, se hace difícil sostenerlo."
+    },
+    {
+      "type": "h2",
+      "text": "Cómo empezar a bajar el ritmo"
+    },
+    {
+      "type": "p",
+      "text": "No se trata de cambiarlo todo de golpe ni de hacerlo perfecto."
+    },
+    {
+      "type": "p",
+      "text": "Puedes empezar con pequeños gestos:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Parar 5 minutos sin hacer nada (aunque te cueste)",
+        "Alejarte del móvil un rato",
+        "Respirar más lento, sin forzar",
+        "Poner música relajante"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Puede parecer poco, pero es un inicio."
+    },
+    {
+      "type": "h2",
+      "text": "Bajar el ritmo también se aprende"
+    },
+    {
+      "type": "p",
+      "text": "Bajar el ritmo no es perder el tiempo. Es cuidar tu sistema nervioso."
+    },
+    {
+      "type": "p",
+      "text": "Y no siempre es fácil hacerlo solo/a. A veces es necesario entender qué hay detrás de esta exigencia y este estado constante de alerta."
+    }
+  ],
+  "references": [
+    "American Psychological Association. (2024). <em>Stress effects on the body</em>. <a href=\"https://www.apa.org/topics/stress/body\" rel=\"noopener noreferrer\" target=\"_blank\"> https://www.apa.org/topics/stress/body </a>"
+  ],
+  "related": {},
+  "cta": {
+    "title": "Si te sientes así, no tienes que llevarlo solo/a. Puedes escribirme o contactar conmigo y lo valoramos con calma.",
+    "text": "La primera conversación es gratis y sin compromiso.",
+    "button": "Reserva una llamada de 15 minutos"
+  }
+}

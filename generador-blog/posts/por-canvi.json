@@ -1,0 +1,146 @@
+{
+  "id": "por-canvi",
+  "lang": "ca",
+  "title": "Sents que necessites un canvi, però alguna cosa et frena?",
+  "date": "2026-04-08",
+  "description": "Hi ha moments en què saps que alguna cosa hauria de canviar, però no acabes de fer el pas.",
+  "featured": false,
+  "tags": [
+    "canvis"
+  ],
+  "seoTitle": "Sents que necessites un canvi, però alguna cosa et frena? | Ingrid Segura",
+  "seoDescription": "Vols fer un canvi però alguna cosa et frena? Descobreix per què passa i com començar a moure't amb més calma i claredat.",
+  "ogTitle": "Ingrid Segura | Psicòloga",
+  "ogDescription": "Psicòloga a Altafulla i La Sénia. Teràpia psicològica i acompanyament personal.",
+  "content": [
+    {
+      "type": "p",
+      "html": "<strong>Hi ha moments en què saps que alguna cosa hauria de canviar, però no acabes de fer el pas.</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Potser és una situació que et desgasta, una relació, una feina, una manera de viure que ja no et fa bé, ..."
+    },
+    {
+      "type": "p",
+      "text": "Ho notes al cos, ho penses, fins i tot tens clar que així no vols continuar. Però, tot i això, et quedes on ets."
+    },
+    {
+      "type": "p",
+      "text": "Si t’hi sents identificat/da, no ets l’única persona a qui li passa."
+    },
+    {
+      "type": "h2",
+      "text": "No és falta de voluntat"
+    },
+    {
+      "type": "p",
+      "text": "Des de fora, a vegades sembla fàcil: si alguna cosa no et fa bé, canvia-la."
+    },
+    {
+      "type": "p",
+      "text": "Però quan ets tu qui ho viu, no sempre és tan senzill."
+    },
+    {
+      "type": "p",
+      "text": "Moltes vegades el que hi ha al darrere és por. Por al desconegut, por a equivocar-te, por a perdre una estabilitat que, encara que no et faci bé, et resulta familiar."
+    },
+    {
+      "type": "p",
+      "text": "El cervell tendeix a buscar seguretat, i sovint prefereix quedar-se en allò conegut abans que fer un pas cap a una situació incerta. Per això, fins i tot quan racionalment saps que necessites un canvi, emocionalment pot costar molt sostenir-lo."
+    },
+    {
+      "type": "h2",
+      "text": "Quedar-se també té un cost"
+    },
+    {
+      "type": "p",
+      "text": "Quan una part de tu vol avançar, però una altra et frena, és habitual entrar en un estat de bloqueig."
+    },
+    {
+      "type": "p",
+      "text": "Penses molt, dones voltes, intentes decidir… però no acabes de moure’t."
+    },
+    {
+      "type": "p",
+      "text": "I aquest bloqueig pot generar:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Cansament mental",
+        "Frustració",
+        "Ansietat",
+        "Dubtes constants",
+        "Sensació d’estar estancat/da"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Per què fa tanta por fer un canvi"
+    },
+    {
+      "type": "p",
+      "text": "Un canvi, a part de deixar enrere una situació també pot remoure moltes coses internes:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "La por a penedir-te",
+        "La por a decebre els altres",
+        "La por al que pensaran",
+        "La por a la incertesa"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Com començar a moure’t"
+    },
+    {
+      "type": "p",
+      "text": "No es tracta de fer un gran pas de cop ni de tenir-ho tot clar abans de començar."
+    },
+    {
+      "type": "p",
+      "text": "Pots començar per petits moviments:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Posar nom al que et passa",
+        "Preguntar-te què és exactament el que et frena",
+        "Diferenciar entre por real i por anticipada",
+        "Fer un petit pas que et doni més informació, en lloc d’esperar tenir-ho tot resolt"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Canviar també es pot acompanyar"
+    },
+    {
+      "type": "p",
+      "text": "No sempre és fàcil travessar aquests moments sol/a."
+    },
+    {
+      "type": "p",
+      "text": "A vegades cal un espai per ordenar el que sents, entendre què et bloqueja i poder prendre decisions amb més claredat i menys exigència."
+    },
+    {
+      "type": "p",
+      "text": "Canviar fa por, sí. Però quedar-te on estàs, quan alguna cosa dins teu et diu que ja no pots més, també en fa."
+    }
+  ],
+  "references": [
+    "Tversky, A., & Kahneman, D. (1991). <em>Loss aversion in riskless choice: A reference-dependent model</em>. The Quarterly Journal of Economics. <a href=\"https://doi.org/10.2307/2937956\" rel=\"noopener noreferrer\" target=\"_blank\"> https://doi.org/10.2307/2937956 </a>"
+  ],
+  "related": {
+    "text": "Si ja has fet el pas i ara et venen dubtes, potser et pot ajudar aquest article:",
+    "href": "mantenir-canvi.html",
+    "title": "Quan ja has decidit… però la ment et fa dubtar"
+  },
+  "cta": {
+    "title": "Si et trobes en aquest punt, no ho has de portar sol/a. Pots escriure’m o contactar amb mi i ho valorem amb calma.",
+    "text": "La primera conversa és gratuïta i sense compromís.",
+    "button": "Reserva una trucada de 15 minuts"
+  }
+}

@@ -57,6 +57,8 @@ public class GenerarPosts {
                 }
             }
 
+            updateStaticLists();
+
             if (htmlChanged) {
                 updateSitemap("https://ingridsegura.cat/blog.html");
                 updateSitemap("https://ingridsegura.cat/blog_es.html");
@@ -182,6 +184,13 @@ public class GenerarPosts {
         html = replace(html, "{{jsonLd}}",
                 renderJsonLd(language, id, title, seoDescription, date, currentUrl, hasImage));
 
+        boolean es = "es".equals(language);
+        html = replace(html, "{{homeHref}}", es ? "../index_es.html" : "/");
+        html = replace(html, "{{caActive}}", es ? "" : " class=\"active\"");
+        html = replace(html, "{{esActive}}", es ? " class=\"active\"" : "");
+        html = replace(html, "{{footerText}}", es
+                ? "© Ingrid Segura 2026 · Psicóloga · Colegio Oficial de Psicología n.º 36181"
+                : "© Ingrid Segura 2026 · Psicòloga · Col·legi Oficial de Psicologia n.36181");
         html = replace(html, "{{fileCa}}", id + ".html");
         html = replace(html, "{{fileEs}}", id + "_es.html");
         html = replace(html, "{{menuLabel}}", "es".equals(language) ? "Abrir menú" : "Obrir menú");
@@ -203,8 +212,8 @@ public class GenerarPosts {
         html = replace(html, "{{faqText}}", "es".equals(language) ? "Preguntas frecuentes" : "Preguntes freqüents");
         html = replace(html, "{{cookieText}}",
                 "es".equals(language)
-                        ? "Este sitio utiliza cookies técnicas necesarias para su funcionamiento."
-                        : "Aquest lloc utilitza cookies tècniques necessàries per al seu funcionament.");
+                        ? "Este sitio web utiliza cookies de análisis para mejorar la experiencia."
+                        : "Aquest lloc web utilitza cookies d’anàlisi per millorar l’experiència.");
         html = replace(html, "{{acceptText}}", "es".equals(language) ? "Aceptar" : "Acceptar");
         html = replace(html, "{{rejectText}}", "es".equals(language) ? "Rechazar" : "Rebutjar");
 
@@ -266,8 +275,12 @@ public class GenerarPosts {
         Object featured = data.get("featured");
         entry.put("featured", featured instanceof Boolean ? featured : Boolean.FALSE);
 
-        List<Object> tags = list(data.get("tags"));
-        entry.put("tags", new ArrayList<Object>(tags));
+        List<Object> tags = new ArrayList<Object>();
+        for (Object t : list(data.get("tags"))) {
+            String tag = string(t).toLowerCase(Locale.ROOT);
+            if (!tag.isEmpty() && !tags.contains(tag)) tags.add(tag);
+        }
+        entry.put("tags", tags);
 
         boolean replaced = false;
         for (int i = 0; i < posts.size(); i++) {
@@ -326,7 +339,7 @@ public class GenerarPosts {
 
             String month = caMonths[d.getMonthValue()];
             String connector = startsWithVowel(month) ? " d'" : " de ";
-            return d.getDayOfMonth() + connector + month + " " + d.getYear();
+            return d.getDayOfMonth() + connector + month + " de " + d.getYear();
 
         } catch (Exception e) {
             return isoDate;
@@ -508,7 +521,7 @@ public class GenerarPosts {
     }
 
     private static String renderOgImage(String id, boolean hasImage) {
-        if (!hasImage) return "";
+        if (!hasImage) return "<meta property=\"og:image\" content=\"https://ingridsegura.cat/img/ingrid6.webp\">";
         return "<meta property=\"og:image\" content=\"https://ingridsegura.cat/blog/img/"
                 + id + ".webp\">";
     }
@@ -554,12 +567,111 @@ public class GenerarPosts {
                     + "<a href=\"../contacte_es.html\">Contacto</a>";
         }
 
-        return "<a href=\"../index.html\">Inici</a>\n"
+        return "<a href=\"/\">Inici</a>\n"
                 + "<a href=\"../sobre-mi.html\">Sobre mi</a>\n"
                 + "<a href=\"../arees-especialitzacio.html\">Àrees d'especialització</a>\n"
                 + "<a href=\"../serveis.html\">Serveis</a>\n"
                 + "<a href=\"../blog.html\" class=\"active\">Blog</a>\n"
                 + "<a href=\"../contacte.html\">Contacte</a>";
+    }
+
+
+    // ------------------------------------------------------------------
+    // Llistes d'articles escrites directament a l'HTML (bo per a Google).
+    // Substitueix el contingut entre <!-- LLISTA-POSTS:INICI ... --> i
+    // <!-- LLISTA-POSTS:FI --> a blog.html, blog_es.html i les pàgines d'àrea.
+    //   <!-- LLISTA-POSTS:INICI -->                 -> tots els articles
+    //   <!-- LLISTA-POSTS:INICI tag=ansietat max=4 --> -> filtrats per etiqueta
+    // ------------------------------------------------------------------
+    private static final String START = "<!-- LLISTA-POSTS:INICI";
+    private static final String END = "<!-- LLISTA-POSTS:FI -->";
+
+    private static void updateStaticLists() throws Exception {
+        List<Path> pages = new ArrayList<Path>();
+        try (DirectoryStream<Path> stream = Files.newDirectoryStream(ROOT_DIR, "*.html")) {
+            for (Path p : stream) pages.add(p);
+        }
+        Collections.sort(pages);
+        for (Path page : pages) {
+            String html = readUtf8(page);
+            if (!html.contains(START)) continue;
+            String language = page.getFileName().toString().endsWith("_es.html") ? "es" : "ca";
+            List<Object> posts = list(new SimpleJsonParser(readUtf8(DATA_DIR.resolve("posts-" + language + ".json"))).parse());
+            Map<String, Object> tagNames = map(new SimpleJsonParser(readUtf8(DATA_DIR.resolve("tags-" + language + ".json"))).parse());
+
+            StringBuilder out = new StringBuilder();
+            int pos = 0;
+            while (true) {
+                int a = html.indexOf(START, pos);
+                if (a < 0) break;
+                int aEnd = html.indexOf("-->", a);
+                int b = html.indexOf(END, aEnd);
+                if (aEnd < 0 || b < 0) throw new IOException("Marcador LLISTA-POSTS mal tancat a " + page.getFileName());
+                String opts = html.substring(a + START.length(), aEnd).trim();
+                String tag = option(opts, "tag");
+                int max = option(opts, "max").isEmpty() ? Integer.MAX_VALUE : Integer.parseInt(option(opts, "max"));
+
+                StringBuilder cards = new StringBuilder("\n");
+                int n = 0;
+                for (Object o : posts) {
+                    Map<String, Object> post = map(o);
+                    List<Object> tags = list(post.get("tags"));
+                    if (!tag.isEmpty() && !tags.contains(tag)) continue;
+                    if (n++ >= max) break;
+                    cards.append(renderCard(post, tagNames, language, !tag.isEmpty()));
+                }
+                if (n == 0) {
+                    cards.append("es".equals(language)
+                            ? "<p>Todavía no hay artículos publicados con esta etiqueta.</p>\n"
+                            : "<p>Encara no hi ha articles publicats amb aquesta etiqueta.</p>\n");
+                }
+                out.append(html, pos, aEnd + 3).append(cards);
+                pos = b;
+            }
+            out.append(html.substring(pos));
+            String result = out.toString();
+            if (!result.equals(html)) {
+                writeUtf8(page, result);
+                System.out.println("Llista d'articles actualitzada: " + page.getFileName());
+            }
+        }
+    }
+
+    private static String option(String opts, String key) {
+        for (String part : opts.split("\\s+")) {
+            if (part.startsWith(key + "=")) return part.substring(key.length() + 1);
+        }
+        return "";
+    }
+
+    private static String renderCard(Map<String, Object> post, Map<String, Object> tagNames,
+                                     String language, boolean compact) {
+        StringBuilder sb = new StringBuilder();
+        String title = escapeHtml(string(post.get("title")));
+        String url = escapeHtmlAttribute(string(post.get("url")));
+        boolean featured = Boolean.TRUE.equals(post.get("featured")) && !compact;
+        sb.append("<article class=\"").append(featured ? "blog-card blog-card-featured" : "blog-card").append("\">\n");
+        if (!compact) {
+            sb.append("  <div class=\"blog-card-tags\">");
+            for (Object t : list(post.get("tags"))) {
+                String name = string(tagNames.get(string(t)));
+                if (!name.isEmpty()) sb.append("<span class=\"blog-tag\">").append(escapeHtml(name)).append("</span>");
+            }
+            sb.append("</div>\n");
+        }
+        sb.append("  <p class=\"blog-date\">").append(escapeHtml(string(post.get("date_text")))).append("</p>\n");
+        sb.append(compact ? "  <h3>" : "  <h2>").append(title).append(compact ? "</h3>\n" : "</h2>\n");
+        sb.append("  <p>").append(escapeHtml(string(post.get("description")))).append("</p>\n");
+        String image = string(post.get("image"));
+        if (!image.isEmpty() && !compact) {
+            String alt = valueOr(post.get("image_alt"), string(post.get("title")));
+            sb.append("  <img src=\"").append(escapeHtmlAttribute(image)).append("\" alt=\"")
+              .append(escapeHtmlAttribute(alt)).append("\" class=\"blog-card-image\" loading=\"lazy\">\n");
+        }
+        sb.append("  <a href=\"").append(url).append("\">")
+          .append("es".equals(language) ? "Leer más →" : "Llegir més →").append("</a>\n");
+        sb.append("</article>\n");
+        return sb.toString();
     }
 
     private static void validateId(String id) {

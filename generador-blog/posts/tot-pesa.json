@@ -1,0 +1,143 @@
+{
+  "id": "tot-pesa",
+  "lang": "ca",
+  "title": "Quan fins i tot les coses petites et pesen",
+  "date": "2026-05-13",
+  "description": "Hi ha moments en què no tens ganes de res i fins i tot les coses petites costen més del normal. Entén què pot haver-hi darrere d’aquest cansament emocional.",
+  "featured": false,
+  "tags": [
+    "emocions"
+  ],
+  "seoTitle": "Quan fins i tot les coses petites et pesen | Ingrid Segura Psicòloga",
+  "seoDescription": "Hi ha moments en què no tens ganes de res i tot costa més del normal. Entén què pot haver-hi darrere d’aquest cansament emocional.",
+  "ogTitle": "Quan fins i tot les coses petites et pesen",
+  "ogDescription": "Quan no tens ganes de res, no sempre és mandra. A vegades és cansament emocional, tristesa o necessitat de parar.",
+  "content": [
+    {
+      "type": "p",
+      "html": "<strong>Hi ha moments en què tot pesa una mica més.</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Llevar-te del llit. Respondre missatges. Fer plans. Concentrar-te."
+    },
+    {
+      "type": "p",
+      "text": "Fins i tot coses petites que abans feies sense pensar poden començar a costar."
+    },
+    {
+      "type": "p",
+      "text": "I moltes vegades, el primer que apareix és la culpa."
+    },
+    {
+      "type": "p",
+      "html": "“Hauria d’espavilar.”<br/> “No hauria d’estar així.”<br/> “Segurament és mandra.”"
+    },
+    {
+      "type": "p",
+      "text": "Però no sempre és mandra."
+    },
+    {
+      "type": "p",
+      "text": "A vegades simplement estàs cansat/da emocionalment."
+    },
+    {
+      "type": "html",
+      "html": "<div class=\"post-image\">\n<img alt=\"Persona caminant sola per la platja al capvespre\" src=\"img/tot-pesa.webp\"/>\n</div>"
+    },
+    {
+      "type": "h2",
+      "text": "La tristesa no sempre es veu igual"
+    },
+    {
+      "type": "p",
+      "text": "No sempre apareix plorant o tenint ganes de parlar del que et passa."
+    },
+    {
+      "type": "p",
+      "text": "De vegades es nota més en:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Falta d’energia",
+        "Desconnexió",
+        "Cansament constant",
+        "Menys ganes de fer coses",
+        "Necessitat d’aïllar-te",
+        "Sensació que tot requereix massa esforç"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "I encara que no sigui agradable, sentir tristesa forma part de ser humà/na."
+    },
+    {
+      "type": "p",
+      "text": "No cal intentar estar bé tot el temps."
+    },
+    {
+      "type": "p",
+      "text": "A vegades també necessites parar una mica, escoltar-te i donar espai al que estàs sentint."
+    },
+    {
+      "type": "h2",
+      "text": "Però quedar-te aturat/da massa temps tampoc ajuda"
+    },
+    {
+      "type": "p",
+      "text": "Quan aquesta sensació s’allarga molt, és fàcil començar a tancar-te més."
+    },
+    {
+      "type": "p",
+      "text": "Deixar plans. Aïllar-te. Perdre rutines. Esperar a tenir ganes per tornar a fer coses."
+    },
+    {
+      "type": "p",
+      "text": "El problema és que, moltes vegades, les ganes no apareixen primer."
+    },
+    {
+      "type": "p",
+      "text": "De vegades és el moviment el que ajuda a recuperar-les a poc a poc."
+    },
+    {
+      "type": "p",
+      "text": "No es tracta d’obligar-te a estar bé ni de fer grans canvis de cop."
+    },
+    {
+      "type": "p",
+      "text": "Però sí que pot ajudar:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Sortir a caminar una estona",
+        "Mantenir petites rutines",
+        "Parlar amb algú de confiança",
+        "Tornar a fer activitats simples",
+        "No quedar-te completament aïllat/da"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Petits passos també compten."
+    },
+    {
+      "type": "p",
+      "html": "<strong>I a vegades cuidar-te no és exigir-te més, sinó parar i escoltar com te sents.</strong>"
+    }
+  ],
+  "references": [
+    "American Psychiatric Association. (2022). <em>Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.; DSM-5-TR)</em>. American Psychiatric Publishing."
+  ],
+  "related": {
+    "text": "Si sovint et jutges quan no tens energia o sents que no arribes a tot, també et pot ajudar aquest article:",
+    "href": "tot-o-res.html",
+    "title": "Quan et dius que no fas res bé"
+  },
+  "cta": {
+    "title": "Si et sents apagat/da, cansat/da o sense ganes, no ho has de portar sol/a.",
+    "text": "Podem mirar-ho amb calma i entendre què t’està passant. La primera conversa és gratuïta i sense compromís.",
+    "button": "Reserva una trucada de 15 minuts"
+  }
+}

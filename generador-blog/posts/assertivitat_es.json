@@ -1,0 +1,325 @@
+{
+  "id": "assertivitat",
+  "lang": "es",
+  "title": "¿Qué es la asertividad?",
+  "date": "2026-06-29",
+  "description": "La asertividad no es imponerte ni callar lo que sientes. Descubre cómo expresar lo que piensas o necesitas con respeto y algunas herramientas para empezar a practicarla.",
+  "featured": true,
+  "tags": [
+    "relacions",
+    "autocura"
+  ],
+  "image_alt": "Dos personas caminando y conversando bajo un arco de piedra frente al mar",
+  "seoTitle": "¿Qué es la asertividad? Herramientas para comunicarte mejor | Ingrid Segura Psicóloga",
+  "seoDescription": "La asertividad te ayuda a expresar lo que piensas, sientes o necesitas con respeto. Descubre qué es, para qué sirve y algunas herramientas para empezar a practicarla.",
+  "ogTitle": "¿Qué es la asertividad?",
+  "ogDescription": "Ser asertivo/a no es imponerte ni callar siempre. Es aprender a expresar lo que necesitas con respeto, claridad y cuidado hacia ti y hacia los demás.",
+  "content": [
+    {
+      "type": "p",
+      "html": "<strong>Hay conversaciones que pueden parecer sencillas desde fuera, pero que por dentro cuestan mucho.</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Decir que no. Expresar que algo te ha molestado. Pedir lo que necesitas. Poner un límite sin sentirte culpable."
+    },
+    {
+      "type": "p",
+      "text": "A veces, para evitar un conflicto, acabamos callando. Otras veces, después de haber callado demasiado tiempo, acabamos explotando."
+    },
+    {
+      "type": "p",
+      "text": "La asertividad es una forma de comunicarnos que intenta encontrar un punto más saludable entre estos dos extremos."
+    },
+    {
+      "type": "h2",
+      "text": "¿Qué es la asertividad?"
+    },
+    {
+      "type": "p",
+      "text": "La asertividad es la capacidad de expresar lo que piensas, sientes o necesitas de una manera clara y respetuosa."
+    },
+    {
+      "type": "p",
+      "text": "No significa decirlo todo sin filtro."
+    },
+    {
+      "type": "p",
+      "text": "Tampoco significa agradar siempre o evitar cualquier incomodidad."
+    },
+    {
+      "type": "p",
+      "html": "<strong>Ser asertivo/a implica tener en cuenta lo que necesita la otra persona, pero sin desaparecer tú de la conversación.</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Es poder decir:"
+    },
+    {
+      "type": "p",
+      "html": "“Esto no me va bien.”<br/> “Necesito pensármelo.”<br/> “Entiendo lo que dices, pero yo lo vivo de otra manera.”<br/> “Ahora mismo no puedo asumir esto.”"
+    },
+    {
+      "type": "p",
+      "text": "Sin atacar, pero también sin anularte."
+    },
+    {
+      "type": "h2",
+      "text": "¿Para qué sirve la asertividad cuando se practica bien?"
+    },
+    {
+      "type": "p",
+      "text": "Cuando la asertividad se practica de manera saludable, puede ayudar a construir relaciones más claras y más honestas."
+    },
+    {
+      "type": "p",
+      "text": "No porque desaparezcan los desacuerdos, sino porque se pueden expresar con más cuidado."
+    },
+    {
+      "type": "p",
+      "text": "Puede ayudarte a:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "poner límites sin sentir que estás haciendo algo mal;",
+        "expresar necesidades antes de llegar al límite;",
+        "reducir malentendidos;",
+        "evitar acumular resentimiento;",
+        "tomar decisiones con más coherencia con lo que necesitas;",
+        "relacionarte con más respeto hacia los demás y hacia ti mismo/a."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "La asertividad no garantiza que la otra persona responda siempre bien."
+    },
+    {
+      "type": "p",
+      "text": "Pero sí te permite comunicarte desde un lugar más claro, menos impulsivo y menos cargado de culpa."
+    },
+    {
+      "type": "h2",
+      "text": "Cuando no se practica bien"
+    },
+    {
+      "type": "p",
+      "text": "A veces se confunde la asertividad con “decir las cosas tal como salen”."
+    },
+    {
+      "type": "p",
+      "text": "Pero ser asertivo/a no es utilizar la sinceridad como una forma de hacer daño."
+    },
+    {
+      "type": "p",
+      "text": "También puede pasar lo contrario: creer que estamos siendo asertivos porque no decimos nada y “evitamos problemas”, cuando en realidad nos estamos callando cosas importantes una y otra vez."
+    },
+    {
+      "type": "p",
+      "text": "Podemos entenderlo con tres formas de comunicarnos:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Comunicación pasiva:</strong> callo lo que pienso o necesito para evitar molestar, decepcionar o generar conflicto.",
+        "<strong>Comunicación agresiva:</strong> expreso lo que pienso o necesito, pero lo hago atacando, imponiendo o invalidando a la otra persona.",
+        "<strong>Comunicación asertiva:</strong> expreso lo que pienso o necesito con claridad y respeto, sin atacar y sin anularme."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "El objetivo no es hacerlo perfecto."
+    },
+    {
+      "type": "p",
+      "text": "Es empezar a detectar desde dónde estás respondiendo: desde el miedo, desde la rabia o desde la claridad."
+    },
+    {
+      "type": "h2",
+      "text": "¿Por qué cuesta tanto ser asertivo/a?"
+    },
+    {
+      "type": "p",
+      "text": "Muchas personas no tienen dificultades con la asertividad porque no sepan qué quieren."
+    },
+    {
+      "type": "p",
+      "text": "Lo que cuesta es sostener lo que puede pasar después de decirlo."
+    },
+    {
+      "type": "p",
+      "text": "Pueden aparecer miedos como:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "“¿Y si se enfada?”",
+        "“¿Y si piensa que soy egoísta?”",
+        "“¿Y si deja de contar conmigo?”",
+        "“¿Y si genero un conflicto?”"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Por eso, muchas veces, acabamos diciendo que sí cuando en realidad querríamos decir que no."
+    },
+    {
+      "type": "p",
+      "text": "O decimos que “no pasa nada” cuando sí que pasa."
+    },
+    {
+      "type": "p",
+      "text": "Practicar la asertividad no consiste solo en aprender frases. También implica aprender a tolerar un poco más la incomodidad de ser honesto/a."
+    },
+    {
+      "type": "image",
+      "alt": "Dos personas caminando y conversando bajo un arco de piedra frente al mar"
+    },
+    {
+      "type": "h2",
+      "text": "Herramientas para empezar a practicar la asertividad"
+    },
+    {
+      "type": "p",
+      "text": "No hace falta empezar con conversaciones muy difíciles."
+    },
+    {
+      "type": "p",
+      "text": "A menudo es más útil practicar con situaciones pequeñas y cotidianas."
+    },
+    {
+      "type": "h3",
+      "text": "1. Date tiempo antes de responder"
+    },
+    {
+      "type": "p",
+      "text": "Muchas veces decimos que sí por impulso, para evitar la incomodidad del momento."
+    },
+    {
+      "type": "p",
+      "text": "Una frase sencilla puede ayudar mucho:"
+    },
+    {
+      "type": "p",
+      "html": "<strong>“Me lo pienso y te digo algo.”</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Esta pausa te da espacio para preguntarte qué quieres realmente, en lugar de responder automáticamente para quedar bien."
+    },
+    {
+      "type": "h3",
+      "text": "2. Habla desde lo que sientes"
+    },
+    {
+      "type": "p",
+      "text": "Cuando una conversación es delicada, es fácil empezar acusando a la otra persona."
+    },
+    {
+      "type": "p",
+      "text": "Por ejemplo:"
+    },
+    {
+      "type": "p",
+      "text": "“Nunca me escuchas.”"
+    },
+    {
+      "type": "p",
+      "text": "A veces puede ser más útil expresarlo desde la propia experiencia:"
+    },
+    {
+      "type": "p",
+      "html": "<strong>“Cuando pasa esto, me siento poco escuchado/a.”</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Esto no significa que la otra persona no tenga responsabilidad. Pero ayuda a empezar la conversación con menos ataque y más posibilidad de escucha."
+    },
+    {
+      "type": "h3",
+      "text": "3. Di que no sin justificarte en exceso"
+    },
+    {
+      "type": "p",
+      "text": "Cuando cuesta poner límites, suele aparecer la necesidad de dar muchas explicaciones."
+    },
+    {
+      "type": "p",
+      "text": "Pero no siempre hace falta justificarse largamente."
+    },
+    {
+      "type": "p",
+      "text": "Algunas frases posibles son:"
+    },
+    {
+      "type": "p",
+      "html": "<strong>“Gracias por pensar en mí, pero esta vez no puedo.”</strong><br/> <strong>“Ahora mismo no me va bien asumir esto.”</strong><br/> <strong>“Lo entiendo, pero prefiero no hacerlo.”</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Decir que no con respeto sigue siendo decir que no."
+    },
+    {
+      "type": "h3",
+      "text": "4. La técnica del sándwich"
+    },
+    {
+      "type": "p",
+      "text": "En algunas conversaciones, puede ayudar empezar reconociendo algo positivo, expresar después el límite o la necesidad, y acabar mostrando que valoras la relación o la situación."
+    },
+    {
+      "type": "p",
+      "text": "Por ejemplo:"
+    },
+    {
+      "type": "p",
+      "html": "<strong>“Me gusta mucho pasar tiempo contigo. Este fin de semana necesito descansar y no podré quedar. Si te va bien, podemos buscar otro día.”</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Esta técnica puede ser útil si se hace de manera sincera."
+    },
+    {
+      "type": "p",
+      "text": "Si se convierte en una fórmula mecánica, puede sonar poco natural. Por eso, lo más importante no es seguir una estructura perfecta, sino comunicar con honestidad y respeto."
+    },
+    {
+      "type": "h2",
+      "text": "Un recordatorio importante"
+    },
+    {
+      "type": "p",
+      "text": "Ser asertivo/a no significa que la otra persona siempre lo recibirá bien."
+    },
+    {
+      "type": "p",
+      "text": "Tampoco significa que dejarás de sentir nervios cuando tengas que decir algo difícil."
+    },
+    {
+      "type": "p",
+      "text": "Significa que puedes empezar a relacionarte de una manera más honesta con lo que necesitas."
+    },
+    {
+      "type": "p",
+      "html": "<strong>Puedes respetar a los demás sin dejar de respetarte a ti.</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Y eso también es una forma de cuidarte."
+    }
+  ],
+  "references": [
+    "Alberti, R. E., & Emmons, M. L. (2017). <em>Your Perfect Right: Assertiveness and Equality in Your Life and Relationships</em>. Impact Publishers.",
+    "Linehan, M. M. (2015). <em>DBT Skills Training Manual</em>. Guilford Press."
+  ],
+  "related": {
+    "text": "Si te cuesta decir lo que necesitas porque te preocupa decepcionar a los demás, también puede ayudarte este artículo:",
+    "href": "tot-o-res_es.html",
+    "title": "Cuando te dices que no haces nada bien"
+  },
+  "cta": {
+    "title": "Si te cuesta poner límites o expresar lo que necesitas, no tienes que trabajarlo solo/a.",
+    "text": "Podemos mirarlo con calma y entender qué te bloquea en estas conversaciones. La primera conversación es gratuita y sin compromiso.",
+    "button": "Reserva una llamada de 15 minutos"
+  }
+}

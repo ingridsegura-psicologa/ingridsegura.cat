@@ -1,0 +1,109 @@
+{
+  "id": "por-parlar-en-public",
+  "lang": "es",
+  "title": "¿Por qué me da tanto miedo hablar en público?",
+  "date": "2026-10-04",
+  "description": "¿Te pones muy nervioso cuando tienes que hablar delante de los demás? Descubre qué hay detrás del miedo a hablar en público y cómo empezar a afrontarlo.",
+  "featured": false,
+  "tags": [
+    "ansietat",
+    "fobies",
+    "autoestima"
+  ],
+  "image_alt": "Persona hablando delante de público",
+  "seoTitle": "Miedo a hablar en público: por qué ocurre y cómo afrontarlo | Ingrid Segura",
+  "seoDescription": "¿Te pones muy nervioso cuando tienes que hablar delante de los demás? Descubre qué hay detrás del miedo a hablar en público y cómo empezar a afrontarlo.",
+  "ogTitle": "¿Por qué me da tanto miedo hablar en público?",
+  "ogDescription": "Quedarte en blanco, equivocarte o que se noten los nervios. Entender qué alimenta el miedo a hablar en público es el primer paso para empezar a afrontarlo.",
+  "content": [
+    {
+      "type": "p",
+      "text": "Tienes que hacer una presentación, hablar en una reunión o exponer un trabajo y, solo de pensarlo, ya empiezas a ponerte nervioso/a. Quizás todavía faltan días, pero la situación ya ocupa una parte de tus pensamientos."
+    },
+    {
+      "type": "p",
+      "html": "<em>“¿Y si me quedo en blanco?”<br/>“¿Y si me equivoco?”<br/>“¿Y si se me nota?”<br/>“¿Qué pensarán de mí?”</em>"
+    },
+    {
+      "type": "p",
+      "text": "Hablar delante de los demás puede generar nervios a muchas personas. El problema aparece cuando el miedo es tan intenso que nos hace sufrir mucho antes de la situación, nos impide expresarnos como querríamos o nos lleva a evitar oportunidades que nos gustaría poder afrontar."
+    },
+    {
+      "type": "h2",
+      "text": "¿De qué tenemos miedo realmente?"
+    },
+    {
+      "type": "p",
+      "text": "Muchas veces, el miedo no es simplemente hablar delante de un grupo. Lo que nos preocupa es lo que pensamos que podría ocurrir: quedarnos en blanco, no saber responder, temblar, ponernos rojos, equivocarnos o sentir que los demás nos están juzgando."
+    },
+    {
+      "type": "p",
+      "html": "<strong>A veces no nos da tanto miedo hablar como la posibilidad de que algo salga mal mientras hablamos.</strong>"
+    },
+    {
+      "type": "h2",
+      "text": "Cuando los nervios dan todavía más miedo"
+    },
+    {
+      "type": "p",
+      "text": "Ante una situación que percibimos como una amenaza, el cuerpo se activa. El corazón puede ir más rápido, podemos notar calor, temblores, tensión, sequedad de boca o dificultad para concentrarnos."
+    },
+    {
+      "type": "p",
+      "text": "Si interpretamos estas sensaciones como una señal de que algo está yendo mal, podemos empezar a vigilarnos constantemente: “¿Se me nota?”, “¿Estoy temblando?”, “¿Estoy hablando demasiado rápido?”. Cuanto más pendientes estamos de nosotros mismos, más difícil puede resultar concentrarnos en lo que queremos explicar."
+    },
+    {
+      "type": "h2",
+      "text": "Evitarlo alivia el miedo... pero solo durante un rato"
+    },
+    {
+      "type": "p",
+      "text": "Cuando una situación nos genera mucha ansiedad, es comprensible que intentemos evitarla. Podemos dejar que otra persona presente, hablar lo mínimo posible, leerlo todo o intentar terminar muy rápido."
+    },
+    {
+      "type": "p",
+      "text": "A corto plazo, evitar la situación nos tranquiliza. Pero si siempre la evitamos, no tenemos la oportunidad de comprobar que podemos afrontarla, que los nervios pueden disminuir y que equivocarnos no suele tener las consecuencias que imaginábamos."
+    },
+    {
+      "type": "h2",
+      "text": "¿Cómo puedes empezar a afrontar el miedo a hablar en público?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Prepara lo que quieres explicar, pero evita intentar memorizar cada palabra. Tener claras las ideas principales suele dar más flexibilidad.",
+        "Practica en situaciones progresivas: primero a solas, después delante de una persona de confianza y, gradualmente, delante de grupos más grandes.",
+        "Permite que haya un poco de nerviosismo. No necesitas sentirte completamente tranquilo/a para poder hablar.",
+        "Centra la atención en lo que quieres transmitir y no solo en cómo crees que te están viendo los demás.",
+        "Date permiso para parar, respirar, consultar una nota o corregirte. Equivocarte no convierte una presentación en un fracaso.",
+        "Después de hablar, intenta valorar el conjunto de la experiencia y no quedarte únicamente con aquel momento que crees que no ha salido perfecto."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "No necesitas dejar de estar nervioso/a para empezar"
+    },
+    {
+      "type": "p",
+      "text": "Esperar a sentirte completamente seguro/a antes de afrontar una situación que te da miedo puede hacer que la espera sea muy larga. La confianza también se construye a medida que acumulamos experiencias y descubrimos que podemos gestionar situaciones que antes nos parecían difíciles."
+    },
+    {
+      "type": "p",
+      "html": "<strong>El objetivo no es hablar en público sin sentir nervios. Es poder hablar aunque aparezcan.</strong>"
+    }
+  ],
+  "references": [
+    "Clark, D. M., & Wells, A. (1995). A cognitive model of social phobia. En: R. G. Heimberg, M. R. Liebowitz, D. A. Hope, & F. R. Schneier (Eds.), <em>Social phobia: Diagnosis, assessment, and treatment</em>. Guilford Press.",
+    "Hofmann, S. G. (2007). Cognitive factors that maintain social anxiety disorder: A comprehensive model and its treatment implications. <em>Cognitive Behaviour Therapy, 36</em>(4), 193–209."
+  ],
+  "related": {
+    "text": "Si ante las dificultades tiendes a exigirte demasiado o a pensar que no serás capaz, también puede interesarte:",
+    "href": "i-si-no-puc-amb-tot_es.html",
+    "title": "¿Y si no puedo con todo? Cuando las dificultades te hacen dudar de ti"
+  },
+  "cta": {
+    "title": "El miedo a hablar en público se puede trabajar.",
+    "text": "Si los nervios, el miedo a equivocarte o a sentirte juzgado hacen que evites hablar delante de los demás, podemos trabajarlo de manera gradual y adaptada a tu ritmo. La primera conversación es gratuita y sin compromiso.",
+    "button": "Reserva una llamada de 15 minutos"
+  }
+}

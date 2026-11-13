@@ -45,7 +45,7 @@
 <header class="site-header">
   <div class="header-inner">
 
-    <a href="/" class="brand">Ingrid Segura</a>
+    <a href="{{homeHref}}" class="brand">Ingrid Segura</a>
 
     <button
       class="nav-toggle"
@@ -63,8 +63,8 @@
       {{navLinks}}
 
       <div class="lang-switch" aria-label="{{langLabel}}">
-        <a href="{{fileCa}}">CAT</a>
-        <a href="{{fileEs}}">ES</a>
+        <a href="{{fileCa}}"{{caActive}}>CAT</a>
+        <a href="{{fileEs}}"{{esActive}}>ES</a>
       </div>
 
     </nav>
@@ -117,7 +117,7 @@
 
   <div class="footer-bottom">
 
-    © Ingrid Segura 2026 · Psicòloga · Col·legi Oficial de Psicologia n.36181
+    {{footerText}}
 
     <br>
 

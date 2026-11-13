@@ -1,0 +1,127 @@
+{
+  "id": "nivell-ansietat",
+  "lang": "ca",
+  "title": "L’ansietat és més present del que sembla… però fins a quin punt?",
+  "date": "2026-04-04",
+  "description": "Les dades mostren que és molt més present del que sovint imaginem.",
+  "featured": false,
+  "tags": [
+    "ansietat"
+  ],
+  "seoTitle": "Quin nivell d’ansietat hi ha realment avui en dia? | Ingrid Segura",
+  "seoDescription": "Quanta ansietat hi ha realment a Catalunya? Descobreix les dades i què hi ha darrere del que moltes persones senten.",
+  "ogTitle": "Quin nivell d’ansietat hi ha realment avui en dia?",
+  "ogDescription": "Quanta ansietat hi ha realment a Catalunya? Descobreix les dades i què hi ha darrere del que moltes persones senten.",
+  "content": [
+    {
+      "type": "p",
+      "html": "<strong>Les dades mostren que és molt més present del que sovint imaginem.</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Potser respons ràpid, potser et fa dubtar."
+    },
+    {
+      "type": "p",
+      "text": "Però… què passa si mirem les dades reals?"
+    },
+    {
+      "type": "h2",
+      "text": "Quanta ansietat hi ha?"
+    },
+    {
+      "type": "p",
+      "html": "Segons dades de l’Informe de Salut de Catalunya, aproximadament un <strong>20% de les dones</strong> presenten problemes d’ansietat o depressió."
+    },
+    {
+      "type": "p",
+      "text": "En el cas dels homes, el percentatge és del 12%."
+    },
+    {
+      "type": "p",
+      "html": "Això vol dir que <strong>1 de cada 5 dones</strong> està vivint algun tipus de malestar emocional relacionat amb l’ansietat o la depressió."
+    },
+    {
+      "type": "p",
+      "text": "A més, algunes dades apunten que a la província de Tarragona es registren més casos d’ansietat i depressió que en altres zones de Catalunya, fet que fa que aquest malestar no sigui una cosa llunyana, sinó part de la realitat de moltes persones properes."
+    },
+    {
+      "type": "h2",
+      "text": "I això és tot?"
+    },
+    {
+      "type": "p",
+      "text": "Probablement no."
+    },
+    {
+      "type": "p",
+      "text": "Aquestes dades recullen els casos identificats, però no sempre reflecteixen tota la realitat."
+    },
+    {
+      "type": "p",
+      "text": "Moltes persones:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "No saben posar nom al que els passa",
+        "Ho normalitzen",
+        "O simplement no ho expressen"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Per això, el malestar emocional sovint queda més ocult del que sembla."
+    },
+    {
+      "type": "h2",
+      "text": "No sempre es veu"
+    },
+    {
+      "type": "p",
+      "text": "L’ansietat no sempre es manifesta de forma clara."
+    },
+    {
+      "type": "p",
+      "text": "Pot aparèixer com:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Cansament constant",
+        "Preocupació difícil de parar",
+        "Tensió al cos",
+        "Sensació de no arribar a tot"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "I moltes vegades es viu en silenci."
+    },
+    {
+      "type": "h2",
+      "text": "Què vol dir això per a tu?"
+    },
+    {
+      "type": "p",
+      "text": "Que si t’hi reconeixes, no ets l’única persona."
+    },
+    {
+      "type": "p",
+      "text": "I que el que et passa no és estrany ni exagerat."
+    },
+    {
+      "type": "p",
+      "text": "És més habitual del que sembla, i es pot entendre."
+    }
+  ],
+  "references": [
+    "Departament de Salut de Catalunya. (2017). <em>Informe de Salut de Catalunya</em>. <a href=\"https://www.salutmental.org/lansietat-i-la-depressio-afecten-al-20-de-les-dones-i-al-12-dels-homes-segons-linforme-de-salut-de-catalunya/\" target=\"_blank\"> https://www.salutmental.org/lansietat-i-la-depressio-afecten-al-20-de-les-dones-i-al-12-dels-homes-segons-linforme-de-salut-de-catalunya/ </a>"
+  ],
+  "related": {},
+  "cta": {
+    "title": "Si vols entendre millor què hi ha darrere del que sents, pots escriure’m i ho mirem amb calma.",
+    "text": "La primera conversa és gratuïta i sense compromís.",
+    "button": "Reserva una trucada de 15 minuts"
+  }
+}

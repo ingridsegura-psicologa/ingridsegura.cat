@@ -1,0 +1,143 @@
+{
+  "id": "tot-pesa",
+  "lang": "es",
+  "title": "Cuando incluso las cosas pequeñas te pesan",
+  "date": "2026-05-13",
+  "description": "Hay momentos en los que no tienes ganas de nada y hasta las cosas pequeñas cuestan más de lo normal. Entiende qué puede haber detrás de este cansancio emocional.",
+  "featured": false,
+  "tags": [
+    "emocions"
+  ],
+  "seoTitle": "Cuando incluso las cosas pequeñas te pesan | Ingrid Segura Psicóloga",
+  "seoDescription": "Hay momentos en los que no tienes ganas de nada y todo cuesta más de lo normal. Entiende qué puede haber detrás de este cansancio emocional.",
+  "ogTitle": "Cuando incluso las cosas pequeñas te pesan",
+  "ogDescription": "Cuando no tienes ganas de nada, no siempre es pereza. A veces es cansancio emocional, tristeza o necesidad de parar.",
+  "content": [
+    {
+      "type": "p",
+      "html": "<strong>Hay momentos en los que todo pesa un poco más.</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Levantarte de la cama. Responder mensajes. Hacer planes. Concentrarte."
+    },
+    {
+      "type": "p",
+      "text": "Incluso cosas pequeñas que antes hacías sin pensar pueden empezar a costar."
+    },
+    {
+      "type": "p",
+      "text": "Y muchas veces, lo primero que aparece es la culpa."
+    },
+    {
+      "type": "p",
+      "html": "“Debería espabilar.”<br/> “No debería estar así.”<br/> “Seguro que es pereza.”"
+    },
+    {
+      "type": "p",
+      "text": "Pero no siempre es pereza."
+    },
+    {
+      "type": "p",
+      "text": "A veces simplemente estás cansado/a emocionalmente."
+    },
+    {
+      "type": "html",
+      "html": "<div class=\"post-image\">\n<img alt=\"Persona andando sola por la playa por la tarde\" src=\"img/tot-pesa.webp\"/>\n</div>"
+    },
+    {
+      "type": "h2",
+      "text": "La tristeza no siempre se ve igual"
+    },
+    {
+      "type": "p",
+      "text": "No siempre aparece llorando o teniendo ganas de hablar de lo que te pasa."
+    },
+    {
+      "type": "p",
+      "text": "A veces se nota más en:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Falta de energía",
+        "Desconexión",
+        "Cansancio constante",
+        "Menos ganas de hacer cosas",
+        "Necesidad de aislarte",
+        "Sensación de que todo requiere demasiado esfuerzo"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Y aunque no sea agradable, sentir tristeza forma parte de ser humano/a."
+    },
+    {
+      "type": "p",
+      "text": "No hace falta intentar estar bien todo el tiempo."
+    },
+    {
+      "type": "p",
+      "text": "A veces también necesitas parar un poco, escucharte y dar espacio a lo que estás sintiendo."
+    },
+    {
+      "type": "h2",
+      "text": "Pero quedarte parado/a demasiado tiempo tampoco ayuda"
+    },
+    {
+      "type": "p",
+      "text": "Cuando esta sensación se alarga mucho, es fácil empezar a encerrarte más."
+    },
+    {
+      "type": "p",
+      "text": "Dejar planes. Aislarte. Perder rutinas. Esperar a tener ganas para volver a hacer cosas."
+    },
+    {
+      "type": "p",
+      "text": "El problema es que, muchas veces, las ganas no aparecen primero."
+    },
+    {
+      "type": "p",
+      "text": "A veces es el movimiento lo que ayuda a recuperarlas poco a poco."
+    },
+    {
+      "type": "p",
+      "text": "No se trata de obligarte a estar bien ni de hacer grandes cambios de golpe."
+    },
+    {
+      "type": "p",
+      "text": "Pero sí puede ayudar:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Salir a caminar un rato",
+        "Mantener pequeñas rutinas",
+        "Hablar con alguien de confianza",
+        "Volver a hacer actividades simples",
+        "No aislarte completamente"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Los pequeños pasos también cuentan."
+    },
+    {
+      "type": "p",
+      "html": "<strong>Y a veces cuidarte no es exigirte más, sino parar y escuchar cómo te sientes.</strong>"
+    }
+  ],
+  "references": [
+    "American Psychiatric Association. (2022). <em>Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.; DSM-5-TR)</em>. American Psychiatric Publishing."
+  ],
+  "related": {
+    "text": "Si a menudo te juzgas cuando no tienes energía o sientes que no llegas a todo, también puede ayudarte este artículo:",
+    "href": "tot-o-res_es.html",
+    "title": "Cuando te dices que no haces nada bien"
+  },
+  "cta": {
+    "title": "Si te sientes apagado/a, cansado/a o sin ganas, no tienes por qué llevarlo solo/a.",
+    "text": "Podemos verlo con calma y entender qué te está pasando. La primera conversación es gratuita y sin compromiso.",
+    "button": "Reserva una llamada de 15 minutos"
+  }
+}

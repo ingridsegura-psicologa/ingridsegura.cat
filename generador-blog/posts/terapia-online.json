@@ -1,0 +1,89 @@
+{
+  "id": "terapia-online",
+  "lang": "ca",
+  "title": "La teràpia online és igual d’efectiva que la presencial?",
+  "date": "2026-03-30",
+  "description": "És normal tindre dubtes sobre si la teràpia online pot ajudar realment...",
+  "featured": false,
+  "tags": [
+    "terapia"
+  ],
+  "seoTitle": "La teràpia online és igual d’efectiva que la presencial? | Ingrid Segura",
+  "seoDescription": "Descobreix si la teràpia online pot ser tan efectiva com la presencial, quins avantatges té i en quins casos pot ser una bona opció.",
+  "ogTitle": "Ingrid Segura | Psicòloga",
+  "ogDescription": "Psicòloga a Altafulla i La Sénia. Teràpia psicològica i acompanyament personal.",
+  "content": [
+    {
+      "type": "p",
+      "html": "<strong>És normal tenir dubtes sobre si la teràpia online pot ajudar de veritat.</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Quan pensem en un procés terapèutic, moltes vegades imaginem un espai físic, una consulta i un lloc concret on parlar. Per això, quan apareix l’opció online, és habitual preguntar-se si realment pot ser igual d’útil."
+    },
+    {
+      "type": "h2",
+      "text": "La teràpia online funciona?"
+    },
+    {
+      "type": "p",
+      "text": "En molts casos, sí. La recerca disponible mostra que la teràpia online pot ser tan efectiva com la presencial per abordar diferents dificultats emocionals i psicològiques."
+    },
+    {
+      "type": "p",
+      "text": "Això no vol dir que siguin exactament iguals en tot, ni que serveixin de la mateixa manera per a tothom. Però sí que, per a moltes persones i situacions, la teràpia online pot oferir un espai de treball igualment valuós."
+    },
+    {
+      "type": "h2",
+      "text": "Per què pot ser igual d’efectiva?"
+    },
+    {
+      "type": "p",
+      "text": "La base de la teràpia no és tant el lloc físic com la qualitat de la relació terapèutica, l’escolta, la confiança i la possibilitat de posar paraules al que s’està vivint."
+    },
+    {
+      "type": "p",
+      "text": "De fet, els estudis disponibles indiquen que l’aliança terapèutica en videoconferència no presenta diferències significatives respecte a la presencial."
+    },
+    {
+      "type": "p",
+      "text": "A més, hi ha persones que se senten més còmodes fent les sessions des de casa o des d’un entorn propi. Això pot facilitar sentir-se més segures, reduir l’estrès dels desplaçaments i afavorir la continuïtat del procés. L’APA també assenyala que cal valorar beneficis i riscos segons cada cas."
+    },
+    {
+      "type": "h2",
+      "text": "En quins casos potser no és la millor opció?"
+    },
+    {
+      "type": "p",
+      "text": "La teràpia online no és la millor opció per a tothom ni per a tots els moments. En algunes situacions més complexes, quan hi ha risc elevat o quan es necessita una intervenció més intensiva, la presencialitat pot ser més adequada. També hi ha persones que, senzillament, prefereixen el contacte cara a cara, i això és important respectar-ho."
+    },
+    {
+      "type": "p",
+      "text": "Per això, més que preguntar-se quina és “millor” en general, sovint és més útil valorar quina opció encaixa millor amb les necessitats de cada persona i amb el moment que està vivint."
+    },
+    {
+      "type": "h2",
+      "text": "Conclusió"
+    },
+    {
+      "type": "p",
+      "text": "La teràpia online no és una opció de menys qualitat, sinó una forma diferent d’acompanyament que pot ser eficaç, segura i adequada per a moltes persones."
+    },
+    {
+      "type": "p",
+      "text": "Si tens dubtes sobre si aquest format és per a tu, es pot valorar amb calma i veure quina opció encaixa millor amb el que necessites ara."
+    }
+  ],
+  "references": [
+    "American Psychological Association. (2024). <em>Guidelines for the practice of telepsychology</em>. <a href=\"https://www.apa.org/about/policy/telepsychology-revisions\" rel=\"noopener noreferrer\" target=\"_blank\"> https://www.apa.org/about/policy/telepsychology-revisions </a>",
+    "Fernandez, E., Woldgabreal, Y., Day, A., Pham, T., Gleich, B., & Aboujaoude, E. (2021). Live psychotherapy by video versus in-person: A meta-analysis of efficacy and its relationship to types and targets of treatment. <em>Clinical Psychology &amp; Psychotherapy, 28</em>(6), 1535–1549. <a href=\"https://doi.org/10.1002/cpp.2594\" rel=\"noopener noreferrer\" target=\"_blank\"> https://doi.org/10.1002/cpp.2594 </a>",
+    "Seuling, P. D., et al. (2024). Therapeutic alliance in videoconferencing psychotherapy versus in-person psychotherapy: A meta-analysis. <em>Journal of Telemedicine and Telecare</em>. <a href=\"https://doi.org/10.1177/1357633x231161774\" rel=\"noopener noreferrer\" target=\"_blank\"> https://doi.org/10.1177/1357633x231161774 </a>",
+    "Norwood, C., Moghaddam, N. G., Malins, S., & Sabin-Farrell, R. (2018). Working alliance and outcome effectiveness in videoconferencing psychotherapy: A systematic review and noninferiority meta-analysis. <em>Clinical Psychology &amp; Psychotherapy, 25</em>(6), 797–808. <a href=\"https://doi.org/10.1002/cpp.2315\" rel=\"noopener noreferrer\" target=\"_blank\"> https://doi.org/10.1002/cpp.2315 </a>"
+  ],
+  "related": {},
+  "cta": {
+    "title": "Si estàs pensant a començar un procés terapèutic, et pots posar en contacte amb mi i ho valorem amb calma.",
+    "text": "La primera conversa és gratuïta i sense compromís.",
+    "button": "Reserva una trucada de 15 minuts"
+  }
+}

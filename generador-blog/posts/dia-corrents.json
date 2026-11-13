@@ -1,0 +1,122 @@
+{
+  "id": "dia-corrents",
+  "lang": "ca",
+  "title": "Vas tot el dia corrents, però sents que mai arribes a tot?",
+  "date": "2026-03-31",
+  "description": "Sempre vas amb pressa i et costa parar? Descobreix què hi ha darrere d’aquest ritme constant.",
+  "featured": false,
+  "tags": [
+    "ansietat",
+    "autocura"
+  ],
+  "seoTitle": "Vas tot el dia corrents, però sents que mai arribes a tot? | Ingrid Segura",
+  "seoDescription": "Sents que sempre vas amb pressa i no arribes a tot? Descobreix per què passa i com començar a baixar el ritme.",
+  "ogTitle": "Ingrid Segura | Psicòloga",
+  "ogDescription": "Psicòloga a Altafulla i La Sénia. Teràpia psicològica i acompanyament personal.",
+  "content": [
+    {
+      "type": "p",
+      "html": "<strong>Vas tot el dia corrents, però tens la sensació que mai arribes a tot.</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Sempre hi ha alguna cosa pendent. Sempre vas amb pressa. I quan pares… et sents malament."
+    },
+    {
+      "type": "p",
+      "text": "Com si estiguessis perdent el temps. Com si haguessis de fer més."
+    },
+    {
+      "type": "p",
+      "text": "Si t’hi sents identificat/da, no ets l’única persona a qui li passa."
+    },
+    {
+      "type": "h2",
+      "text": "No és falta d’organització"
+    },
+    {
+      "type": "p",
+      "text": "Moltes vegades pensem que el problema és que no ens organitzem bé. Que si féssim millor les coses, arribaríem a tot."
+    },
+    {
+      "type": "p",
+      "text": "Però sovint no té a veure amb això."
+    },
+    {
+      "type": "p",
+      "text": "El que hi ha al darrere és un sistema nerviós en estat d’alerta constant. El cos i la ment estan acostumats a anar ràpid, a no parar, a estar pendents de tot. La recerca en psicologia mostra que quan l’estrès es manté en el temps, el cos es queda en un estat d’alerta constant, afectant el benestar emocional i físic."
+    },
+    {
+      "type": "p",
+      "text": "I quan intentes descansar… apareix la incomoditat."
+    },
+    {
+      "type": "h2",
+      "text": "Viure així esgota"
+    },
+    {
+      "type": "p",
+      "text": "Aquest ritme constant pot acabar generant:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Cansament físic i mental",
+        "Irritabilitat",
+        "Ansietat",
+        "Desesperança",
+        "Sensació de no arribar mai a tot"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "I amb el temps, es fa difícil sostenir."
+    },
+    {
+      "type": "h2",
+      "text": "Com començar a baixar el ritme"
+    },
+    {
+      "type": "p",
+      "text": "No es tracta de canviar-ho tot de cop ni de fer-ho perfecte."
+    },
+    {
+      "type": "p",
+      "text": "Pots començar per petits gestos:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Parar 5 minuts sense fer res més (encara que et costi)",
+        "Allunyar-te del mòbil una estona",
+        "Respirar més lent, i escoltar la respiració, sense forçar",
+        "Posar-te una música relaxant"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Pot semblar poc, però és un inici."
+    },
+    {
+      "type": "h2",
+      "text": "Baixar el ritme també s’aprèn"
+    },
+    {
+      "type": "p",
+      "text": "Baixar el ritme no és perdre el temps. És cuidar el teu sistema nerviós."
+    },
+    {
+      "type": "p",
+      "text": "I no sempre és fàcil fer-ho sol/a. A vegades cal entendre què hi ha al darrere d’aquesta exigència i aquest estat constant d’alerta."
+    }
+  ],
+  "references": [
+    "American Psychological Association. (2024). <em>Stress effects on the body</em>. <a href=\"https://www.apa.org/topics/stress/body\" rel=\"noopener noreferrer\" target=\"_blank\"> https://www.apa.org/topics/stress/body </a>"
+  ],
+  "related": {},
+  "cta": {
+    "title": "Si et sents així, no ho has de portar sol/a. Pots escriure’m o contactar amb mi i ho valorem amb calma.",
+    "text": "La primera conversa és gratuïta i sense compromís.",
+    "button": "Reserva una trucada de 15 minuts"
+  }
+}

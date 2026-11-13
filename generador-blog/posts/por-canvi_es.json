@@ -1,0 +1,146 @@
+{
+  "id": "por-canvi",
+  "lang": "es",
+  "title": "¿Sientes que necesitas un cambio, pero algo te frena?",
+  "date": "2026-04-08",
+  "description": "Hay momentos en los que sabes que algo debería cambiar, pero no acabas de dar el paso.",
+  "featured": false,
+  "tags": [
+    "canvis"
+  ],
+  "seoTitle": "Sientes que necesitas un cambio, pero algo te frena? | Ingrid Segura",
+  "seoDescription": "Quieres hacer un cambio pero algo te frena? Descubre por qué pasa y cómo empezar a moverte con más calma y claridad.",
+  "ogTitle": "Ingrid Segura | Psicóloga",
+  "ogDescription": "Psicóloga en Altafulla y La Sénia. Terapia psicológica y acompañamiento personal.",
+  "content": [
+    {
+      "type": "p",
+      "html": "<strong>Hay momentos en los que sabes que algo debería cambiar, pero no terminas de dar el paso.</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Puede ser una situación que te desgasta, una relación, un trabajo, una forma de vivir que ya no te conviene..."
+    },
+    {
+      "type": "p",
+      "text": "Lo notas en el cuerpo, en lo que piensas, incluso tienes claro que así no quieres seguir. Pero, aun así, te quedas donde estás."
+    },
+    {
+      "type": "p",
+      "text": "Si te sientes identificado/a, no eres la única persona a la que le pasa."
+    },
+    {
+      "type": "h2",
+      "text": "No es falta de voluntad"
+    },
+    {
+      "type": "p",
+      "text": "Desde fuera, a veces parece fácil: si algo te daña, cámbialo."
+    },
+    {
+      "type": "p",
+      "text": "Pero cuando eres tú quien lo vive, no siempre es tan sencillo."
+    },
+    {
+      "type": "p",
+      "text": "Muchas veces lo que hay detrás es miedo. Miedo a lo desconocido, miedo a equivocarte, miedo a perder una estabilidad que, aunque no te haga bien, te resulta familiar."
+    },
+    {
+      "type": "p",
+      "text": "El cerebro tiende a buscar seguridad, y a menudo prefiere quedarse en lo conocido antes que dar un paso hacia una situación incierta. Por eso, incluso cuando racionalmente sabes que necesitas un cambio, emocionalmente puede costar mucho sostenerlo."
+    },
+    {
+      "type": "h2",
+      "text": "Quedarse también tiene un coste"
+    },
+    {
+      "type": "p",
+      "text": "Cuando una parte de ti quiere avanzar, pero otra te frena, es habitual entrar en un estado de bloqueo."
+    },
+    {
+      "type": "p",
+      "text": "Piensas mucho, das vueltas, intentas decidir… pero no acabas de moverte."
+    },
+    {
+      "type": "p",
+      "text": "Y este bloqueo puede generar:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Cansancio mental",
+        "Frustración",
+        "Ansiedad",
+        "Dudas constantes",
+        "Sensación de estar estancado/a"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Por qué da tanto miedo cambiar"
+    },
+    {
+      "type": "p",
+      "text": "Un cambio, además de dejar atrás una situación, también puede remover muchas cosas internas:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "El miedo a arrepentirte",
+        "El miedo a decepcionar a los demás",
+        "El miedo a lo que pensarán",
+        "El miedo a la incertidumbre"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Cómo empezar a moverte"
+    },
+    {
+      "type": "p",
+      "text": "No se trata de dar un gran paso de golpe ni de tenerlo todo claro antes de empezar."
+    },
+    {
+      "type": "p",
+      "text": "Puedes empezar por pequeños movimientos:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Poner nombre a lo que te pasa",
+        "Preguntarte qué es exactamente lo que te frena",
+        "Diferenciar entre miedo real y miedo anticipado",
+        "Dar un pequeño paso que te dé más información, en lugar de esperar a tenerlo todo resuelto"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Cambiar también se puede acompañar"
+    },
+    {
+      "type": "p",
+      "text": "No siempre es fácil pasar por estos momentos en soledad."
+    },
+    {
+      "type": "p",
+      "text": "A veces es necesario un espacio para ordenar lo que sientes, entender qué te bloquea y poder tomar decisiones con más claridad y menos exigencia."
+    },
+    {
+      "type": "p",
+      "text": "Cambiar da miedo, sí. Pero quedarse donde estás, cuando algo dentro de ti te dice que ya no puedes más, también."
+    }
+  ],
+  "references": [
+    "Tversky, A., & Kahneman, D. (1991). <em>Loss aversion in riskless choice: A reference-dependent model</em>. The Quarterly Journal of Economics. <a href=\"https://doi.org/10.2307/2937956\" rel=\"noopener noreferrer\" target=\"_blank\"> https://doi.org/10.2307/2937956 </a>"
+  ],
+  "related": {
+    "text": "Si ya has dado el paso y ahora te surgen dudas, puede ayudarte este artículo:",
+    "href": "mantenir-canvi_es.html",
+    "title": "Cuando ya has decidido… pero la mente te hace dudar"
+  },
+  "cta": {
+    "title": "Si te encuentras en este punto, no tienes que hacerlo solo/a. Puedes escribirme o contactar conmigo y lo valoramos con calma.",
+    "text": "La primera conversación es gratis y sin compromiso.",
+    "button": "Reserva una llamada de 15 minutos"
+  }
+}

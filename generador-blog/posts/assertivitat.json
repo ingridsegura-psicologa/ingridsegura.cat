@@ -1,0 +1,325 @@
+{
+  "id": "assertivitat",
+  "lang": "ca",
+  "title": "Què és l’assertivitat?",
+  "date": "2026-06-29",
+  "description": "L’assertivitat no és imposar-se ni callar el que sents. Descobreix com expressar el que penses o necessites amb respecte, i algunes eines per començar a practicar-la.",
+  "featured": true,
+  "tags": [
+    "relacions",
+    "autocura"
+  ],
+  "image_alt": "Dues persones caminant i conversant sota un arc de pedra davant del mar",
+  "seoTitle": "Què és l’assertivitat? Eines per comunicar-te millor | Ingrid Segura Psicòloga",
+  "seoDescription": "L’assertivitat t’ajuda a expressar el que penses, sents o necessites amb respecte. Descobreix què és, per què és útil i algunes eines per començar a practicar-la.",
+  "ogTitle": "Què és l’assertivitat?",
+  "ogDescription": "Ser assertiu/va no és imposar-te ni callar sempre. És aprendre a expressar el que necessites amb respecte, claredat i cura cap a tu i cap als altres.",
+  "content": [
+    {
+      "type": "p",
+      "html": "<strong>Hi ha converses que poden semblar senzilles des de fora, però que per dins costen molt.</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Dir que no. Expressar que alguna cosa t’ha molestat. Demanar el que necessites. Posar un límit sense sentir-te culpable."
+    },
+    {
+      "type": "p",
+      "text": "A vegades, per evitar un conflicte, acabem callant. Altres vegades, després d’haver callat massa temps, acabem explotant."
+    },
+    {
+      "type": "p",
+      "text": "L’assertivitat és una manera de comunicar-nos que intenta trobar un punt més saludable entre aquests dos extrems."
+    },
+    {
+      "type": "h2",
+      "text": "Què és l’assertivitat?"
+    },
+    {
+      "type": "p",
+      "text": "L’assertivitat és la capacitat d’expressar el que penses, sents o necessites d’una manera clara i respectuosa."
+    },
+    {
+      "type": "p",
+      "text": "No vol dir dir-ho tot sense filtre."
+    },
+    {
+      "type": "p",
+      "text": "Tampoc vol dir agradar sempre o evitar qualsevol incomoditat."
+    },
+    {
+      "type": "p",
+      "html": "<strong>Ser assertiu/va implica tenir en compte el que necessita l’altra persona, però sense desaparèixer tu de la conversa.</strong>"
+    },
+    {
+      "type": "p",
+      "text": "És poder dir:"
+    },
+    {
+      "type": "p",
+      "html": "“Això no em va bé.”<br/> “Necessito pensar-m’ho.”<br/> “Entenc el que dius, però jo ho visc diferent.”<br/> “Ara mateix no puc assumir això.”"
+    },
+    {
+      "type": "p",
+      "text": "Sense atacar, però també sense anul·lar-te."
+    },
+    {
+      "type": "h2",
+      "text": "Per a què serveix l’assertivitat quan està ben portada?"
+    },
+    {
+      "type": "p",
+      "text": "Quan l’assertivitat es practica de manera saludable, pot ajudar a construir relacions més clares i més honestes."
+    },
+    {
+      "type": "p",
+      "text": "No perquè desapareguin els desacords, sinó perquè es poden expressar amb més cura."
+    },
+    {
+      "type": "p",
+      "text": "Pot ajudar-te a:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "posar límits sense sentir que estàs fent alguna cosa malament;",
+        "expressar necessitats abans d’arribar al límit;",
+        "reduir malentesos;",
+        "evitar acumular ressentiment;",
+        "prendre decisions amb més coherència amb el que necessites;",
+        "relacionar-te amb més respecte cap als altres i cap a tu mateix/a."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "L’assertivitat no garanteix que l’altra persona respongui sempre bé."
+    },
+    {
+      "type": "p",
+      "text": "Però sí que et permet comunicar-te des d’un lloc més clar, menys impulsiu i menys carregat de culpa."
+    },
+    {
+      "type": "h2",
+      "text": "Quan no està ben portada"
+    },
+    {
+      "type": "p",
+      "text": "A vegades es confon l’assertivitat amb “dir les coses tal com ragen”."
+    },
+    {
+      "type": "p",
+      "text": "Però ser assertiu/va no és utilitzar la sinceritat com una manera de fer mal."
+    },
+    {
+      "type": "p",
+      "text": "També pot passar el contrari: creure que estem sent assertius perquè no diem res i “evitem problemes”, quan en realitat ens estem callant coses importants una vegada i una altra."
+    },
+    {
+      "type": "p",
+      "text": "Podem entendre-ho amb tres formes de comunicar-nos:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Comunicació passiva:</strong> callo el que penso o necessito per evitar molestar, decebre o generar conflicte.",
+        "<strong>Comunicació agressiva:</strong> expresso el que penso o necessito, però ho faig atacant, imposant o invalidant l’altra persona.",
+        "<strong>Comunicació assertiva:</strong> expresso el que penso o necessito amb claredat i respecte, sense atacar i sense anul·lar-me."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "L’objectiu no és fer-ho perfecte."
+    },
+    {
+      "type": "p",
+      "text": "És començar a detectar des d’on estàs responent: des de la por, des de la ràbia o des de la claredat."
+    },
+    {
+      "type": "h2",
+      "text": "Per què costa tant ser assertiu/va?"
+    },
+    {
+      "type": "p",
+      "text": "Moltes persones no tenen dificultats amb l’assertivitat perquè no sàpiguen què volen."
+    },
+    {
+      "type": "p",
+      "text": "El que costa és sostenir el que pot passar després de dir-ho."
+    },
+    {
+      "type": "p",
+      "text": "Poden aparèixer pors com:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "“I si s’enfada?”",
+        "“I si pensa que soc egoista?”",
+        "“I si deixa de comptar amb mi?”",
+        "“I si genero un conflicte?”"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Per això, moltes vegades, acabem dient que sí quan voldríem dir que no."
+    },
+    {
+      "type": "p",
+      "text": "O diem que “no passa res” quan sí que passa."
+    },
+    {
+      "type": "p",
+      "text": "Practicar l’assertivitat no consisteix només a aprendre frases. També implica aprendre a tolerar una mica més la incomoditat de ser honest/a."
+    },
+    {
+      "type": "image",
+      "alt": "Espai tranquil amb una llibreta i una tassa per reflexionar abans d'una conversa"
+    },
+    {
+      "type": "h2",
+      "text": "Eines per començar a practicar l’assertivitat"
+    },
+    {
+      "type": "p",
+      "text": "No cal començar amb converses molt difícils."
+    },
+    {
+      "type": "p",
+      "text": "Sovint és més útil practicar amb situacions petites i quotidianes."
+    },
+    {
+      "type": "h3",
+      "text": "1. Dona’t temps abans de respondre"
+    },
+    {
+      "type": "p",
+      "text": "Moltes vegades diem que sí per impuls, per evitar la incomoditat del moment."
+    },
+    {
+      "type": "p",
+      "text": "Una frase senzilla pot ajudar molt:"
+    },
+    {
+      "type": "p",
+      "html": "<strong>“M’ho penso i et dic alguna cosa.”</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Aquesta pausa et dona espai per preguntar-te què vols realment, en lloc de respondre automàticament per quedar bé."
+    },
+    {
+      "type": "h3",
+      "text": "2. Parla des del que sents"
+    },
+    {
+      "type": "p",
+      "text": "Quan una conversa és delicada, és fàcil començar acusant l’altra persona."
+    },
+    {
+      "type": "p",
+      "text": "Per exemple:"
+    },
+    {
+      "type": "p",
+      "text": "“Mai m’escoltes.”"
+    },
+    {
+      "type": "p",
+      "text": "A vegades pot ser més útil expressar-ho des de la pròpia experiència:"
+    },
+    {
+      "type": "p",
+      "html": "<strong>“Quan passa això, em sento poc escoltat/da.”</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Això no vol dir que l’altra persona no tingui responsabilitat. Però ajuda a començar la conversa amb menys atac i més possibilitat d’escolta."
+    },
+    {
+      "type": "h3",
+      "text": "3. Digues que no sense justificar-te en excés"
+    },
+    {
+      "type": "p",
+      "text": "Quan costa posar límits, sovint apareix la necessitat de donar moltes explicacions."
+    },
+    {
+      "type": "p",
+      "text": "Però no sempre cal justificar-se llargament."
+    },
+    {
+      "type": "p",
+      "text": "Algunes frases possibles són:"
+    },
+    {
+      "type": "p",
+      "html": "<strong>“Gràcies per pensar en mi, però aquesta vegada no puc.”</strong><br/> <strong>“Ara mateix no em va bé assumir això.”</strong><br/> <strong>“Ho entenc, però prefereixo no fer-ho.”</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Dir que no amb respecte continua sent dir que no."
+    },
+    {
+      "type": "h3",
+      "text": "4. La tècnica del sandvitx"
+    },
+    {
+      "type": "p",
+      "text": "En algunes converses, pot ajudar començar reconeixent alguna cosa positiva, expressar després el límit o la necessitat, i acabar mostrant que valores la relació o la situació."
+    },
+    {
+      "type": "p",
+      "text": "Per exemple:"
+    },
+    {
+      "type": "p",
+      "html": "<strong>“M’agrada molt passar temps amb tu. Aquest cap de setmana necessito descansar i no podré quedar. Si et va bé, podem buscar un altre dia.”</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Aquesta tècnica pot ser útil si es fa de manera sincera."
+    },
+    {
+      "type": "p",
+      "text": "Si es converteix en una fórmula mecànica, pot sonar poc natural. Per això, el més important no és seguir una estructura perfecta, sinó comunicar amb honestedat i respecte."
+    },
+    {
+      "type": "h2",
+      "text": "Un recordatori important"
+    },
+    {
+      "type": "p",
+      "text": "Ser assertiu/va no vol dir que l’altra persona sempre ho rebrà bé."
+    },
+    {
+      "type": "p",
+      "text": "Tampoc vol dir que deixaràs de sentir nervis quan hagis de dir alguna cosa difícil."
+    },
+    {
+      "type": "p",
+      "text": "Vol dir que pots començar a relacionar-te d’una manera més honesta amb el que necessites."
+    },
+    {
+      "type": "p",
+      "html": "<strong>Pots respectar els altres sense deixar de respectar-te a tu.</strong>"
+    },
+    {
+      "type": "p",
+      "text": "I això també és una manera de cuidar-te."
+    }
+  ],
+  "references": [
+    "Alberti, R. E., & Emmons, M. L. (2017). <em>Your Perfect Right: Assertiveness and Equality in Your Life and Relationships</em>. Impact Publishers.",
+    "Linehan, M. M. (2015). <em>DBT Skills Training Manual</em>. Guilford Press."
+  ],
+  "related": {
+    "text": "Si et costa dir el que necessites perquè et preocupa decebre els altres, també et pot ajudar aquest article:",
+    "href": "tot-o-res.html",
+    "title": "Quan et dius que no fas res bé"
+  },
+  "cta": {
+    "title": "Si et costa posar límits o expressar el que necessites, no ho has de treballar sol/a.",
+    "text": "Podem mirar-ho amb calma i entendre què et bloqueja en aquestes converses. La primera conversa és gratuïta i sense compromís.",
+    "button": "Reserva una trucada de 15 minuts"
+  }
+}
