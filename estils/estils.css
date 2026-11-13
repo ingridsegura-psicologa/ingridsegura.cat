@@ -286,7 +286,11 @@ button[type="submit"]:focus-visible,
 
 .section{
   display:grid;
-  grid-template-columns:1.02fr 1fr;
+  /* Títol i text junts i centrats: el fons ocupa tota l'amplada,
+     però el contingut no s'escampa en pantalles grans */
+  grid-template-columns:minmax(0, 340px) minmax(0, 640px);
+  justify-content:center;
+  column-gap:56px;
   min-height:400px;
   border-top:1px solid var(--line-section);
 }
@@ -296,7 +300,7 @@ button[type="submit"]:focus-visible,
 .section.white{  
 	background:var(--surface);
 }
-.section-title-wrap{padding:76px 48px 70px 96px}
+.section-title-wrap{padding:76px 0 70px}
 .section-title{
   margin-bottom:18px;
   font-size:30px;
@@ -305,7 +309,7 @@ button[type="submit"]:focus-visible,
 }
 .section-content{
   max-width:640px;
-  padding:72px 96px 72px 48px;
+  padding:72px 0;
 }
 .section-content p{
   margin-bottom:24px;
