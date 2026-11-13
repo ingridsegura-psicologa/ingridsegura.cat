@@ -1332,3 +1332,19 @@ select.input{
     border-radius: 14px;
   }
 }
+/* Formació (Sobre mi) */
+.about-method-copy h3{
+  margin:28px 0 10px;
+  font-size:20px;
+  color:var(--text-about-title);
+}
+.formacio-list{
+  margin:0 0 8px;
+  padding-left:20px;
+}
+.formacio-list li{
+  margin-bottom:8px;
+  font-size:18px;
+  line-height:1.6;
+  color:var(--text-testimonial);
+}
