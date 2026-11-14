@@ -1,0 +1,107 @@
+{
+  "id": "fred-sense-ganes",
+  "lang": "es",
+  "title": "Cuando llega el frío y se van las ganas",
+  "date": "2026-11-16",
+  "description": "Con menos horas de luz, mucha gente nota más cansancio y menos ganas de hacer cosas. Entiende por qué pasa y cómo cuidarte esta temporada.",
+  "featured": false,
+  "tags": [
+    "emocions",
+    "autocura"
+  ],
+  "image_alt": "Mujer de espaldas mirando el mar en una mañana de niebla en la playa",
+  "seoTitle": "Cansancio y ánimo bajo en otoño: por qué pasa y cómo cuidarte | Ingrid Segura",
+  "seoDescription": "Con menos horas de luz, mucha gente nota más cansancio y menos ganas de hacer cosas. Entiende por qué pasa y cómo cuidarte esta temporada.",
+  "ogTitle": "Cuando llega el frío y se van las ganas",
+  "ogDescription": "Oscurece antes, cuesta más salir de la cama y las ganas no acompañan. No te pasa solo a ti. Pequeñas cosas para cuidarte este otoño.",
+  "content": [
+    {
+      "type": "p",
+      "text": "Sales del trabajo y ya es de noche. Te cuesta más levantarte de la cama. Los planes que en verano te apetecían ahora te dan pereza, y tienes la sensación de que todo te cuesta un poco más. ¿Te suena?"
+    },
+    {
+      "type": "p",
+      "text": "Cuando llega el otoño, mucha gente nota un cambio en su estado de ánimo y en su energía. No es que de repente seas menos capaz ni estés menos alegre. Simplemente, el cuerpo y la mente también notan el cambio de estación."
+    },
+    {
+      "type": "h2",
+      "text": "¿Por qué nos pasa?"
+    },
+    {
+      "type": "p",
+      "text": "La luz tiene un papel importante en cómo nos sentimos. Ayuda a regular nuestro reloj interno, que marca cuándo tenemos sueño, cuándo estamos más activos y también influye en el estado de ánimo. Cuando los días se acortan y recibimos menos luz natural, este reloj se desajusta un poco."
+    },
+    {
+      "type": "p",
+      "text": "Además, con el frío tendemos a salir menos, a movernos menos y a quedarnos más en casa. Hacemos menos cosas que nos dan energía y nos conectan con los demás, y eso también pesa."
+    },
+    {
+      "type": "p",
+      "text": "Y hay otro factor: el ritmo no baja. Seguimos con el trabajo, las obligaciones y las prisas de siempre, pero con menos luz y menos energía. Es normal que en algún momento sintamos que no llegamos."
+    },
+    {
+      "type": "image",
+      "alt": "Mujer de espaldas mirando el mar en una mañana de niebla en la playa"
+    },
+    {
+      "type": "h2",
+      "text": "¿Cómo se puede notar?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Más cansancio, aunque duermas las mismas horas.",
+        "Más ganas de dormir o de quedarte en el sofá.",
+        "Menos ganas de quedar con gente o de hacer planes.",
+        "Más irritabilidad o sensibilidad ante pequeñas cosas.",
+        "Ganas de comer cosas más dulces o más reconfortantes.",
+        "Sensación de estar más apagado/a, sin saber muy bien por qué."
+      ]
+    },
+    {
+      "type": "p",
+      "html": "<strong>Notarlo no significa que te pase nada grave. Significa que te estás adaptando a un cambio, y que quizá necesitas cuidarte de una manera un poco diferente.</strong>"
+    },
+    {
+      "type": "h2",
+      "text": "Pequeñas cosas que pueden ayudar"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Busca la luz del día. Intenta salir al exterior durante las horas de sol, aunque sea un rato corto: un paseo, un café en la terraza o ir caminando a algún sitio.",
+        "Muévete un poco cada día. No hace falta hacer grandes esfuerzos. Caminar, estirarte o bailar en casa también cuenta, y ayuda a recuperar energía.",
+        "Mantén horarios regulares. Levantarte e irte a dormir a horas parecidas ayuda al cuerpo a ajustarse al cambio de luz.",
+        "No dejes de ver gente. Cuando apetece encerrarse en casa, una llamada, un café o un paseo acompañado pueden cambiar el día.",
+        "Haz sitio a los pequeños placeres de la temporada. Una manta, una sopa caliente, un libro o una tarde tranquila también pueden ser una manera de cuidarte.",
+        "Baja un poco la exigencia. Si tienes menos energía, quizá no hace falta que hagas lo mismo que en verano. Ajustar el ritmo no es rendirse."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "¿Cuándo puede ser importante pedir ayuda?"
+    },
+    {
+      "type": "p",
+      "text": "Sentirse un poco más cansado o apagado durante el otoño es habitual. Pero si el desánimo es intenso, dura semanas, te cuesta hacer las cosas del día a día o sientes que has perdido el interés por casi todo, vale la pena hablarlo con un profesional. A veces no es solo la estación, y mereces que te escuchen y te acompañen."
+    },
+    {
+      "type": "p",
+      "html": "<strong>El otoño no te pide que hagas más. Quizá te pide que te escuches un poco más.</strong>"
+    }
+  ],
+  "references": [
+    "Rosenthal, N. E., Sack, D. A., Gillin, J. C., Lewy, A. J., Goodwin, F. K., Davenport, Y., Mueller, P. S., Newsome, D. A., & Wehr, T. A. (1984). Seasonal affective disorder: A description of the syndrome and preliminary findings with light therapy. <em>Archives of General Psychiatry, 41</em>(1), 72–80.",
+    "Magnusson, A., & Boivin, D. (2003). Seasonal affective disorder: An overview. <em>Chronobiology International, 20</em>(2), 189–207."
+  ],
+  "related": {
+    "text": "Si estos días sientes que todo te cuesta más de lo normal, también puede interesarte:",
+    "href": "tot-pesa_es.html",
+    "title": "Cuando incluso las cosas pequeñas te pesan"
+  },
+  "cta": {
+    "title": "Si te sientes apagado/a o sin ganas, no tienes por qué llevarlo solo/a.",
+    "text": "Podemos verlo con calma y entender qué te está pasando. Las sesiones también pueden ser caminando, al aire libre. La primera conversación es gratuita y sin compromiso.",
+    "button": "Reserva una llamada de 15 minutos"
+  }
+}
