@@ -1,5 +1,20 @@
 [
   {
+    "id": "fred-sense-ganes",
+    "title": "Quan arriba el fred i se’n van les ganes",
+    "date": "2026-11-16",
+    "date_text": "16 de novembre de 2026",
+    "description": "Amb menys hores de llum, molta gent nota més cansament i menys ganes de fer coses. Entén per què passa i com cuidar-te aquesta temporada.",
+    "image": "blog/img/fred-sense-ganes.webp",
+    "image_alt": "Dona d’esquena mirant el mar en un matí de boira a la platja",
+    "url": "blog/fred-sense-ganes.html",
+    "featured": false,
+    "tags": [
+      "emocions",
+      "autocura"
+    ]
+  },
+  {
     "id": "gestionar-frustracio",
     "title": "Per què ens costa tant gestionar la frustració?",
     "date": "2026-10-12",

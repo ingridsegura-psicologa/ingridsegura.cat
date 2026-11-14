@@ -1,5 +1,20 @@
 [
   {
+    "id": "fred-sense-ganes",
+    "title": "Cuando llega el frío y se van las ganas",
+    "date": "2026-11-16",
+    "date_text": "16 de noviembre de 2026",
+    "description": "Con menos horas de luz, mucha gente nota más cansancio y menos ganas de hacer cosas. Entiende por qué pasa y cómo cuidarte esta temporada.",
+    "image": "blog/img/fred-sense-ganes.webp",
+    "image_alt": "Mujer de espaldas mirando el mar en una mañana de niebla en la playa",
+    "url": "blog/fred-sense-ganes_es.html",
+    "featured": false,
+    "tags": [
+      "emocions",
+      "autocura"
+    ]
+  },
+  {
     "id": "gestionar-frustracio",
     "title": "¿Por qué nos cuesta tanto gestionar la frustración?",
     "date": "2026-10-12",
