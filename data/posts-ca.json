@@ -1,5 +1,18 @@
 [
   {
+    "id": "desembre-sense-correr",
+    "title": "Arribar al desembre sense córrer",
+    "date": "2026-11-23",
+    "date_text": "23 de novembre de 2026",
+    "description": "Final d’any, presses, sopars i llistes infinites. Què és de debò el mindfulness i com et pot ajudar a viure aquestes setmanes amb més calma.",
+    "url": "blog/desembre-sense-correr.html",
+    "featured": false,
+    "tags": [
+      "autocura",
+      "emocions"
+    ]
+  },
+  {
     "id": "fred-sense-ganes",
     "title": "Quan arriba el fred i se’n van les ganes",
     "date": "2026-11-16",

@@ -1,5 +1,18 @@
 [
   {
+    "id": "desembre-sense-correr",
+    "title": "Llegar a diciembre sin correr",
+    "date": "2026-11-23",
+    "date_text": "23 de noviembre de 2026",
+    "description": "Final de año, prisas, cenas y listas infinitas. Qué es de verdad el mindfulness y cómo puede ayudarte a vivir estas semanas con más calma.",
+    "url": "blog/desembre-sense-correr_es.html",
+    "featured": false,
+    "tags": [
+      "autocura",
+      "emocions"
+    ]
+  },
+  {
     "id": "fred-sense-ganes",
     "title": "Cuando llega el frío y se van las ganas",
     "date": "2026-11-16",
