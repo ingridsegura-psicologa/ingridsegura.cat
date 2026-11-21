@@ -38,6 +38,8 @@ sitemap.xml
 
 Novetats (novembre 2026)
 ================
+- generar-posts.bat executa directament GenerarPosts.java (ja no cal el .jar).
+  Cal Java 11 o superior. Si canvies el .java, no cal recompilar res.
 - Tots els posts tenen el seu JSON a posts/. Per canviar un post, edita el
   JSON i executa generar-posts.bat --force (o esborra l'HTML i executa'l normal).
 - Cada execució actualitza també les llistes d'articles de blog.html,
